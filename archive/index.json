@@ -360,6 +360,386 @@
       }
     ]
   },
+  "r146": {
+    "APPName": "_FN",
+    "DeviceCategory": "w",
+    "DeviceType": "MYY10_V0-A_BU_FN",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:22:45Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r146__firmware_MYY10_V0_YT-A_V3.2.2.2_FN_CH-Y10-FN_V0_202302152305.bin",
+        "file": "firmware_MYY10_V0_YT-A_V3.2.2.2_FN_CH-Y10-FN_V0_202302152305.bin",
+        "md5": "866a945f2501604918b329541007efe5",
+        "release_date": "20230224",
+        "sha256": "3f63342a758682e4e760fa4110b38e20a43e3902b0843bad3cc12f43473fc27e",
+        "size": 7516700,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_FN/MYY10_V0-A_BU_FN/firmware_MYY10_V0_YT-A_V3.2.2.2_FN_CH-Y10-FN_V0_202302152305.bin",
+        "version": "3.2.2.2"
+      }
+    ]
+  },
+  "r147": {
+    "APPName": "_JMS",
+    "DeviceCategory": "n",
+    "DeviceType": "MN3109B_V0",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:22:51Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r147__firmware_MN3109B_V0-A1_V7.2.2.08_JMS_202309131507.bin",
+        "file": "firmware_MN3109B_V0-A1_V7.2.2.08_JMS_202309131507.bin",
+        "md5": "8955d5a1cc4d70a10c88e057279cb190",
+        "release_date": "20230913",
+        "sha256": "e03571b5e38daf507b442fa0b6a97510c8e31d9ee1ebb5ba8fb01d533230c13f",
+        "size": 13833696,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_JMS/MN3109B_V0/firmware_MN3109B_V0-A1_V7.2.2.08_JMS_202309131507.bin",
+        "version": "7.2.2.08"
+      }
+    ]
+  },
+  "r148": {
+    "APPName": "_JMS",
+    "DeviceCategory": "n",
+    "DeviceType": "MN3120B_V0",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:22:57Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r148__firmware_MN3120B_V0-A1_V7.2.2.08_JMS_202309131507.bin",
+        "file": "firmware_MN3120B_V0-A1_V7.2.2.08_JMS_202309131507.bin",
+        "md5": "aa1d086c872f63308669efc959360bc5",
+        "release_date": "20230913",
+        "sha256": "6d14531d55ee5068fbaad958cb1bf496685104ea90c2b16aa344428fa350e1f9",
+        "size": 13833696,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_JMS/MN3120B_V0/firmware_MN3120B_V0-A1_V7.2.2.08_JMS_202309131507.bin",
+        "version": "7.2.2.08"
+      }
+    ]
+  },
+  "r149": {
+    "APPName": "_JMS",
+    "DeviceCategory": "n",
+    "DeviceType": "MN3232B_V0",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:23:03Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r149__firmware_MN3232B_V0-A1_V7.2.2.08_JMS_202309131507.bin",
+        "file": "firmware_MN3232B_V0-A1_V7.2.2.08_JMS_202309131507.bin",
+        "md5": "9ef806a624fb5e064fc0df4b39ee0ae2",
+        "release_date": "20230913",
+        "sha256": "1c04311390b52599eb4a82018fa8fed6ed84035ff1876d763f8b20d4a1cc83dc",
+        "size": 14530444,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_JMS/MN3232B_V0/firmware_MN3232B_V0-A1_V7.2.2.08_JMS_202309131507.bin",
+        "version": "7.2.2.08"
+      }
+    ]
+  },
+  "r150": {
+    "APPName": "_JMS",
+    "DeviceCategory": "n",
+    "DeviceType": "MN3236B_V0",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:23:09Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r150__firmware_MN3236B_V0-A1_V7.2.4.06_JMS_202401031726.bin",
+        "file": "firmware_MN3236B_V0-A1_V7.2.4.06_JMS_202401031726.bin",
+        "md5": "bc10ea0600af68e8da256b1b8e6bc030",
+        "release_date": "20240103",
+        "sha256": "a591ff3fecfbd38d48b51254e331461da276e8210014028cd71fbb0a58d0dc79",
+        "size": 19997616,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_JMS/MN3236B_V0/firmware_MN3236B_V0-A1_V7.2.4.06_JMS_202401031726.bin",
+        "version": "7.2.4.06"
+      }
+    ]
+  },
+  "r151": {
+    "APPName": "_SF",
+    "DeviceCategory": "n",
+    "DeviceType": "F2036B_V0_SF",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:23:16Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r151__firmware_F2036B_V0-A1_V7.2.8.02_SF_202511180954.bin",
+        "file": "firmware_F2036B_V0-A1_V7.2.8.02_SF_202511180954.bin",
+        "md5": "ca646971a1868d4a5a8323639ff787e0",
+        "release_date": "20251118",
+        "sha256": "ea5f8b18e294cd0ac89f9dbd4bbd0be9ff2edd22aaff403c08a1648034d35c4e",
+        "size": 18607794,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/_SF/F2036B_V0_SF/firmware_F2036B_V0-A1_V7.2.8.02_SF_202511180954.bin",
+        "version": "7.2.8.02"
+      }
+    ]
+  },
+  "r152": {
+    "APPName": "_SF",
+    "DeviceCategory": "i",
+    "DeviceType": "FB3_V110-A_BU_SF",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:23:21Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r152__firmware_FB3_V110_YT-A_V3.3.0.2_SF_FB3_V110_202312111613.bin",
+        "file": "firmware_FB3_V110_YT-A_V3.3.0.2_SF_FB3_V110_202312111613.bin",
+        "md5": "17969d4f602a48d999272a1f987af71d",
+        "release_date": "20231211",
+        "sha256": "f17c6ce53247e259717bd3c4f54f7b33396c3b3cac61cf8ec6e4bfdd8c8f1054",
+        "size": 7664156,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_SF/FB3_V110-A_BU_SF/firmware_FB3_V110_YT-A_V3.3.0.2_SF_FB3_V110_202312111613.bin",
+        "version": "3.3.0.2"
+      }
+    ]
+  },
+  "r159": {
+    "APPName": "_SF",
+    "DeviceCategory": "4",
+    "DeviceType": "FG4_AF_V111-A_4G_SF-H5",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:23:26Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r159__firmware_FG4_V111_AF-A_V3.3.1.6_SF11_202405290906.bin",
+        "file": "firmware_FG4_V111_AF-A_V3.3.1.6_SF11_202405290906.bin",
+        "md5": "3827dba0f065a371fd71db86099be82e",
+        "release_date": "20240604",
+        "sha256": "99b982df3ce4763c175fe8280383d64c1768c0e4d2f0063abdb28572e93e3e8f",
+        "size": 9979408,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_SF/FG4_AF_V111-A_4G_SF-H5/firmware_FG4_V111_AF-A_V3.3.1.6_SF11_202405290906.bin",
+        "version": "3.3.1.6"
+      }
+    ]
+  },
+  "r162": {
+    "APPName": "_SF",
+    "DeviceCategory": "i",
+    "DeviceType": "FP4_V110_SF",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:23:31Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r162__firmware_FP4_V110_V3.3.2.1_SF_FP4_V110_202407311954.bin",
+        "file": "firmware_FP4_V110_V3.3.2.1_SF_FP4_V110_202407311954.bin",
+        "md5": "f36eaded15dc8ee32cd57646570c3f19",
+        "release_date": "20240731",
+        "sha256": "6e8ca6c8d2721f89931fe237ed4150a625dc0daef2ecc0e310502cceae123581",
+        "size": 7260336,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_SF/FP4_V110_SF/firmware_FP4_V110_V3.3.2.1_SF_FP4_V110_202407311954.bin",
+        "version": "3.3.2.1"
+      }
+    ]
+  },
+  "r164": {
+    "APPName": "_SF",
+    "DeviceCategory": "i",
+    "DeviceType": "FQ4_AF_V112-A_SF-H5",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:23:37Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r164__firmware_FQ4_V112_AF-A_V3.3.0.9_SF_FQ4_V112_202403200923.bin",
+        "file": "firmware_FQ4_V112_AF-A_V3.3.0.9_SF_FQ4_V112_202403200923.bin",
+        "md5": "a3b3cc98e01b4374c9d43de3971a0510",
+        "release_date": "20240327",
+        "sha256": "7ed4b7409fdfc52b875398d1b8421a9fcb12024681addb3b36e4d2b68a5889ad",
+        "size": 10802704,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_SF/FQ4_AF_V112-A_SF-H5/firmware_FQ4_V112_AF-A_V3.3.0.9_SF_FQ4_V112_202403200923.bin",
+        "version": "3.3.0.9"
+      }
+    ]
+  },
+  "r169": {
+    "APPName": "_SF",
+    "DeviceCategory": "i",
+    "DeviceType": "FY3_V110_BU_SF",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:23:41Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r169__firmware_FY3_V110_V3.3.2.1_SF_FY3_V110_202407311954.bin",
+        "file": "firmware_FY3_V110_V3.3.2.1_SF_FY3_V110_202407311954.bin",
+        "md5": "9a8051d730f223ccc40a89482e1ee3e3",
+        "release_date": "20240812",
+        "sha256": "c448695c339bd8b678d35b32cb46e86e81f775a7eccd513b7efbb3bb5f961c4f",
+        "size": 7109872,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_SF/FY3_V110_BU_SF/firmware_FY3_V110_V3.3.2.1_SF_FY3_V110_202407311954.bin",
+        "version": "3.3.2.1"
+      }
+    ]
+  },
+  "r170": {
+    "APPName": "_SF",
+    "DeviceCategory": "i",
+    "DeviceType": "FZ4_V110_SF",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:23:47Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r170__firmware_FZ4_V110_V3.3.2.1_SF_FZ4_V110_202407311954.bin",
+        "file": "firmware_FZ4_V110_V3.3.2.1_SF_FZ4_V110_202407311954.bin",
+        "md5": "986876d4da005539712cf436f7e0ef94",
+        "release_date": "20240812",
+        "sha256": "04a7cf1c511acbf85caeb24275653d25bfe425bd1b43ac99720afff211ae3951",
+        "size": 7677136,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_SF/FZ4_V110_SF/firmware_FZ4_V110_V3.3.2.1_SF_FZ4_V110_202407311954.bin",
+        "version": "3.3.2.1"
+      }
+    ]
+  },
+  "r171": {
+    "APPName": "_SF",
+    "DeviceCategory": "i",
+    "DeviceType": "FZ5_V110_SF",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:23:52Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r171__firmware_FZ5_V110_V3.3.2.1_SF_FZ5_V110_202408301033.bin",
+        "file": "firmware_FZ5_V110_V3.3.2.1_SF_FZ5_V110_202408301033.bin",
+        "md5": "5fd396b1e26f84d59dde106f14bfd89b",
+        "release_date": "20240909",
+        "sha256": "98b696954decc4bdf018aaa64f37a2d5ff39278028e72cb62080c9be6f959d54",
+        "size": 7820496,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_SF/FZ5_V110_SF/firmware_FZ5_V110_V3.3.2.1_SF_FZ5_V110_202408301033.bin",
+        "version": "3.3.2.1"
+      }
+    ]
+  },
+  "r172": {
+    "APPName": "_SF",
+    "DeviceCategory": "n",
+    "DeviceType": "MN3109B_V0",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:23:58Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r172__firmware_F2012A_V0-A1_V7.2.7.06_SF_202505291223.bin",
+        "file": "firmware_F2012A_V0-A1_V7.2.7.06_SF_202505291223.bin",
+        "md5": "c0da4d69e1974cbed1931e8647ba9e5a",
+        "release_date": "20250529",
+        "sha256": "7e7b9ce67042096d25ae0da16753320b9403af3b3894705a985c27b5264cf88f",
+        "size": 14357894,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_SF/MN3109B_V0/firmware_F2012A_V0-A1_V7.2.7.06_SF_202505291223.bin",
+        "version": "7.2.7.06"
+      }
+    ]
+  },
+  "r173": {
+    "APPName": "_SF",
+    "DeviceCategory": "n",
+    "DeviceType": "MN3120B_V0",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:24:04Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r173__firmware_F2020A_V0-A1_V7.2.7.06_SF_202505291223.bin",
+        "file": "firmware_F2020A_V0-A1_V7.2.7.06_SF_202505291223.bin",
+        "md5": "9173461907673ee2417fa1240c87f3c6",
+        "release_date": "20250529",
+        "sha256": "c313dec35b1640bc5f64bfa0d4ef8c870a5a75bb10219933a835c00ccaa4c635",
+        "size": 14361990,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_SF/MN3120B_V0/firmware_F2020A_V0-A1_V7.2.7.06_SF_202505291223.bin",
+        "version": "7.2.7.06"
+      }
+    ]
+  },
+  "r174": {
+    "APPName": "_SF",
+    "DeviceCategory": "n",
+    "DeviceType": "MN3236B_V0",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:24:10Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r174__firmware_F2036B_V0-A1_V7.2.7.06_SF_202505291223.bin",
+        "file": "firmware_F2036B_V0-A1_V7.2.7.06_SF_202505291223.bin",
+        "md5": "987549568db7287435734c9bab746ef8",
+        "release_date": "20250529",
+        "sha256": "c2a0ed3b41010fecf4321c44a464a20c7c0516e5fa6bf83327a0207d11d59e0e",
+        "size": 21495474,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_SF/MN3236B_V0/firmware_F2036B_V0-A1_V7.2.7.06_SF_202505291223.bin",
+        "version": "7.2.7.06"
+      }
+    ]
+  },
+  "r175": {
+    "APPName": "_SQ",
+    "DeviceCategory": "n",
+    "DeviceType": "MN3109B_V0",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:24:17Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r175__firmware_MN3109B_V0-A1_V7.2.4.06_SQ_202401031727.bin",
+        "file": "firmware_MN3109B_V0-A1_V7.2.4.06_SQ_202401031727.bin",
+        "md5": "4dae83dc8f695e34efdd37a7a3ab72c7",
+        "release_date": "20240103",
+        "sha256": "137f6f11375ac74b03de9cc19a51d2cc6cb7a7eb8f2ffc4b94baad0e455de78b",
+        "size": 13926024,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_SQ/MN3109B_V0/firmware_MN3109B_V0-A1_V7.2.4.06_SQ_202401031727.bin",
+        "version": "7.2.4.06"
+      }
+    ]
+  },
+  "r176": {
+    "APPName": "_SQ",
+    "DeviceCategory": "n",
+    "DeviceType": "MN3120B_V0",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:24:23Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r176__firmware_MN3120B_V0-A1_V7.2.4.06_SQ_202401031728.bin",
+        "file": "firmware_MN3120B_V0-A1_V7.2.4.06_SQ_202401031728.bin",
+        "md5": "9b2942100a3f3a5a01c466be3225db90",
+        "release_date": "20240103",
+        "sha256": "0270e4fc98a8b70f2f7422533d3c829b2a3170e95ff5e8ecdb600367502b9598",
+        "size": 13926024,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_SQ/MN3120B_V0/firmware_MN3120B_V0-A1_V7.2.4.06_SQ_202401031728.bin",
+        "version": "7.2.4.06"
+      }
+    ]
+  },
+  "r177": {
+    "APPName": "_TV",
+    "DeviceCategory": "4",
+    "DeviceType": "MCJ12-4GYUGA_AF_V0_BU_TV",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:24:28Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r177__firmware_MCJ12_V0_AF-W-4G2_V3.0.6.1_TV_MCJ12-4GYUGA_V0_202110141610.bin",
+        "file": "firmware_MCJ12_V0_AF-W-4G2_V3.0.6.1_TV_MCJ12-4GYUGA_V0_202110141610.bin",
+        "md5": "5a5e1c63f048984f2b825c35d81e69c2",
+        "release_date": "20211014",
+        "sha256": "b2bdd0934af3e5605e76738ad4d784db43ec160577e3939969142914514aa23c",
+        "size": 8932816,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_TV/MCJ12-4GYUGA_AF_V0_BU_TV/firmware_MCJ12_V0_AF-W-4G2_V3.0.6.1_TV_MCJ12-4GYUGA_V0_202110141610.bin",
+        "version": "3.0.6.1"
+      }
+    ]
+  },
+  "r178": {
+    "APPName": "_TV",
+    "DeviceCategory": "4",
+    "DeviceType": "MT-E8-4G3_AF_V0_BU_TV_3MP",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:24:33Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r178__firmware_MTE8_V0_AF-W_V3.2.2.4_TV_MT-E8-4G3_V0_202304111711.bin",
+        "file": "firmware_MTE8_V0_AF-W_V3.2.2.4_TV_MT-E8-4G3_V0_202304111711.bin",
+        "md5": "1b958cd5d38012f8fac254d0a08d6176",
+        "release_date": "20230411",
+        "sha256": "d541caabc3a67eec95ecf0221a672a456d11b7b0e256cff499330f1ae9b8eb59",
+        "size": 10000856,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_TV/MT-E8-4G3_AF_V0_BU_TV_3MP/firmware_MTE8_V0_AF-W_V3.2.2.4_TV_MT-E8-4G3_V0_202304111711.bin",
+        "version": "3.2.2.4"
+      }
+    ]
+  },
   "r61": {
     "APPName": "public",
     "DeviceCategory": "w",
