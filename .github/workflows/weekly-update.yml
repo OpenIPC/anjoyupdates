@@ -79,9 +79,12 @@ jobs:
         run: git push || true
 
   push-openipc-org:
-    # openipc.org takes this token from weekly-update.yml on main alone.
+    # openipc.org takes this token from weekly-update.yml on main alone, and
+    # only once it knows this source: the repository variable PUSH_OPENIPC_ORG
+    # is set to "true" when it does, and the push is skipped, not failed,
+    # until then.
     needs: download
-    if: ${{ !cancelled() && github.ref == 'refs/heads/main' }}
+    if: ${{ !cancelled() && github.ref == 'refs/heads/main' && vars.PUSH_OPENIPC_ORG == 'true' }}
     runs-on: ubuntu-latest
     permissions:
       contents: read

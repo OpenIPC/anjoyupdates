@@ -34,4 +34,4 @@ Anjoy's own notes on its download page, for anyone flashing these:
 
 [`weekly-update.yml`](.github/workflows/weekly-update.yml) runs on Mondays and on demand: refresh the
 list and commit it, archive new builds (`--max-per-run`, 100 by default), then push the list to
-openipc.org from `main`.
+openipc.org from `main` (only while the repository variable `PUSH_OPENIPC_ORG` is `true`).
