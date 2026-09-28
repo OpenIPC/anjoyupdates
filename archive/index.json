@@ -8889,6 +8889,25 @@
       }
     ]
   },
+  "r1908": {
+    "APPName": "_WTD",
+    "DeviceCategory": "4",
+    "DeviceType": "D72G_V0-AIOT_4G_WTD",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T18:18:38Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1908__firmware_D72G_V0_YT-AIOT_V3.6.2.1_WTD_20260923174602.bin",
+        "file": "firmware_D72G_V0_YT-AIOT_V3.6.2.1_WTD_20260923174602.bin",
+        "md5": "4f57ba10a675384ed503843aa6d795b5",
+        "release_date": "20260923",
+        "sha256": "85ad9bdf8dfd1277bd91901bf14094a9b55a34910ef54096f8e1b81f8ba7c9b2",
+        "size": 11241244,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/_WTD/D72G_V0-AIOT_4G_WTD/firmware_D72G_V0_YT-AIOT_V3.6.2.1_WTD_20260923174602.bin",
+        "version": "3.6.2.1"
+      }
+    ]
+  },
   "r191": {
     "APPName": "_TV",
     "DeviceCategory": "i",
