@@ -6837,6 +6837,44 @@
       }
     ]
   },
+  "r1788": {
+    "APPName": "_WTD",
+    "DeviceCategory": "i",
+    "DeviceType": "D80B_AF_V3-A_WTD-GB",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T18:10:47Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1788__firmware_D80B_V3_AF-GB-A_V3.6.1.1_WTD_20260828111349.bin",
+        "file": "firmware_D80B_V3_AF-GB-A_V3.6.1.1_WTD_20260828111349.bin",
+        "md5": "b3dc2e0b277b579efaa02222c2de2241",
+        "release_date": "20260828",
+        "sha256": "170200b0368684332da0982b96c5d375d085dba23449501705e664bd0a13f1f3",
+        "size": 9805136,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/_WTD/D80B_AF_V3-A_WTD-GB/firmware_D80B_V3_AF-GB-A_V3.6.1.1_WTD_20260828111349.bin",
+        "version": "3.6.1.1"
+      }
+    ]
+  },
+  "r1789": {
+    "APPName": "_WTD",
+    "DeviceCategory": "i",
+    "DeviceType": "D80C_AF_V0-A_WTD-GB",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T18:10:52Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1789__firmware_D80C_V0_AF-GB-A_V3.6.1.1_WTD_20260828111410.bin",
+        "file": "firmware_D80C_V0_AF-GB-A_V3.6.1.1_WTD_20260828111410.bin",
+        "md5": "879d75ab2a66f9de12e9125886015b2e",
+        "release_date": "20260828",
+        "sha256": "3864685a3cd20627a6f12f6aeb2a693237fff45cf2b5dbb29c3574cafe0b20ec",
+        "size": 10297828,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/_WTD/D80C_AF_V0-A_WTD-GB/firmware_D80C_V0_AF-GB-A_V3.6.1.1_WTD_20260828111410.bin",
+        "version": "3.6.1.1"
+      }
+    ]
+  },
   "r179": {
     "APPName": "_TV",
     "DeviceCategory": "4",
@@ -6853,6 +6891,177 @@
         "size": 9707800,
         "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_TV/MT-E8-4G3_V0_BU_TV_3MP/firmware_MTE8_V0-W-4G3_3MP_V3.0.6.5_TV_MT-E8-4G3_V0_202111231200.bin",
         "version": "3.0.6.5"
+      }
+    ]
+  },
+  "r1790": {
+    "APPName": "_WTD",
+    "DeviceCategory": "4",
+    "DeviceType": "D32G_V5-A_4G_WTD-GB",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T18:10:58Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1790__firmware_D32G_V5_YT-GB-A_V3.6.1.1_WTD_20260828110930.bin",
+        "file": "firmware_D32G_V5_YT-GB-A_V3.6.1.1_WTD_20260828110930.bin",
+        "md5": "d46a30ce200adb4ad53588a1c68a9652",
+        "release_date": "20260828",
+        "sha256": "458a2819cd643622cee9b43d09f0082e2db60354fba118cd7da99638a98d6c46",
+        "size": 9765260,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/_WTD/D32G_V5-A_4G_WTD-GB/firmware_D32G_V5_YT-GB-A_V3.6.1.1_WTD_20260828110930.bin",
+        "version": "3.6.1.1"
+      }
+    ]
+  },
+  "r1791": {
+    "APPName": "_WTD",
+    "DeviceCategory": "4",
+    "DeviceType": "D36G_V1-A_4G_WTD-GB",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T18:11:04Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1791__firmware_D36G_V1_YT-GB-A_V3.6.1.1_WTD_20260828111447.bin",
+        "file": "firmware_D36G_V1_YT-GB-A_V3.6.1.1_WTD_20260828111447.bin",
+        "md5": "b97e77749650ad9854b1f292093a7900",
+        "release_date": "20260828",
+        "sha256": "9f7dcb010702999c1762a073bb92170d1e9ed8c1a8b0c0695eb9c49c327edc7b",
+        "size": 9765260,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/_WTD/D36G_V1-A_4G_WTD-GB/firmware_D36G_V1_YT-GB-A_V3.6.1.1_WTD_20260828111447.bin",
+        "version": "3.6.1.1"
+      }
+    ]
+  },
+  "r1793": {
+    "APPName": "_WTD",
+    "DeviceCategory": "4",
+    "DeviceType": "D61G_V0-A_4G_WTD-GB",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T18:11:09Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1793__firmware_D61G_V0_YT-GB-A_V3.6.1.1_WTD_20260828111141.bin",
+        "file": "firmware_D61G_V0_YT-GB-A_V3.6.1.1_WTD_20260828111141.bin",
+        "md5": "2c3c0eecd4f0155b28a3c722bb74db14",
+        "release_date": "20260828",
+        "sha256": "5bf18c1ed5fce6a6b8e37a387c0d41a39c02c37e94266877d23b9d818e8f64fb",
+        "size": 7554408,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/_WTD/D61G_V0-A_4G_WTD-GB/firmware_D61G_V0_YT-GB-A_V3.6.1.1_WTD_20260828111141.bin",
+        "version": "3.6.1.1"
+      }
+    ]
+  },
+  "r1794": {
+    "APPName": "_WTD",
+    "DeviceCategory": "4",
+    "DeviceType": "D60G_AF_V1-A_4G_WTD-GB",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T18:11:14Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1794__firmware_D60G_V1_AF-GB-A_V3.6.1.1_WTD_20260828111123.bin",
+        "file": "firmware_D60G_V1_AF-GB-A_V3.6.1.1_WTD_20260828111123.bin",
+        "md5": "246b887afca4a91bfa28e2ba791b2c23",
+        "release_date": "20260828",
+        "sha256": "670a44dbaecf4406d62f27a5c4bdefadd5a12d09db9b4485925c8790f6fdc816",
+        "size": 10032628,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/_WTD/D60G_AF_V1-A_4G_WTD-GB/firmware_D60G_V1_AF-GB-A_V3.6.1.1_WTD_20260828111123.bin",
+        "version": "3.6.1.1"
+      }
+    ]
+  },
+  "r1795": {
+    "APPName": "_WTD",
+    "DeviceCategory": "4",
+    "DeviceType": "D70G_V4-A_4G_WTD-GB",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T18:11:20Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1795__firmware_D70G_V4_YT-GB-A_V3.6.1.1_WTD_20260828111205.bin",
+        "file": "firmware_D70G_V4_YT-GB-A_V3.6.1.1_WTD_20260828111205.bin",
+        "md5": "0c292b93dbe6aacc4e220b0bee079846",
+        "release_date": "20260828",
+        "sha256": "f05f53ca6207206cb622969c6be235148d1863fb489fff79ff5b88a540f45f90",
+        "size": 10006028,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/_WTD/D70G_V4-A_4G_WTD-GB/firmware_D70G_V4_YT-GB-A_V3.6.1.1_WTD_20260828111205.bin",
+        "version": "3.6.1.1"
+      }
+    ]
+  },
+  "r1796": {
+    "APPName": "_WTD",
+    "DeviceCategory": "4",
+    "DeviceType": "D75G_V0-A_4G_WTD-GB",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T18:11:25Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1796__firmware_D75G_V0_YT-GB-A_V3.6.1.1_WTD_20260828111304.bin",
+        "file": "firmware_D75G_V0_YT-GB-A_V3.6.1.1_WTD_20260828111304.bin",
+        "md5": "09e5bc1a19a6d9f50a5866c07bfb4a38",
+        "release_date": "20260828",
+        "sha256": "729e628ee1bc7289f974a3de7434dabf8a37d32c4e6e291c121d0e42ce3703dc",
+        "size": 10500300,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/_WTD/D75G_V0-A_4G_WTD-GB/firmware_D75G_V0_YT-GB-A_V3.6.1.1_WTD_20260828111304.bin",
+        "version": "3.6.1.1"
+      }
+    ]
+  },
+  "r1797": {
+    "APPName": "_WTD",
+    "DeviceCategory": "4",
+    "DeviceType": "D80H-G_AF_V4-A_4G_WTD-GB",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T18:11:30Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1797__firmware_D80H-G_V4_AF-GB-A_V3.6.1.1_WTD_20260828111429.bin",
+        "file": "firmware_D80H-G_V4_AF-GB-A_V3.6.1.1_WTD_20260828111429.bin",
+        "md5": "6559436b769cd5d871a6cec0333fe136",
+        "release_date": "20260828",
+        "sha256": "5e14d9b6899abc4cf42bd257db9111fe9c12657a7d25d9e289b9c29fd1b61f14",
+        "size": 10156332,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/_WTD/D80H-G_AF_V4-A_4G_WTD-GB/firmware_D80H-G_V4_AF-GB-A_V3.6.1.1_WTD_20260828111429.bin",
+        "version": "3.6.1.1"
+      }
+    ]
+  },
+  "r1798": {
+    "APPName": "_WTD",
+    "DeviceCategory": "4",
+    "DeviceType": "D200G_AF_V0-A_4G_WTD-GB",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T18:11:36Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1798__firmware_D200G_V0_AF-GB-A_V3.6.1.1_WTD_20260828110813.bin",
+        "file": "firmware_D200G_V0_AF-GB-A_V3.6.1.1_WTD_20260828110813.bin",
+        "md5": "88429b298c6cdaf2dd66def59044bf4f",
+        "release_date": "20260828",
+        "sha256": "4b9c6a67ac0a6771f47ecfb82ea9bdaeb31d47b2d0024e971250b53edfdbb4b3",
+        "size": 9948352,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/_WTD/D200G_AF_V0-A_4G_WTD-GB/firmware_D200G_V0_AF-GB-A_V3.6.1.1_WTD_20260828110813.bin",
+        "version": "3.6.1.1"
+      }
+    ]
+  },
+  "r1799": {
+    "APPName": "public",
+    "DeviceCategory": "4",
+    "DeviceType": "MCF46-4GB-12Y_AF_V3-A_4G_TF",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T18:11:41Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1799__firmware_MCF46_V3_AF-A_V3.6.1.1_TF_MCF46-4GB-12Y_V3_20260826161216.bin",
+        "file": "firmware_MCF46_V3_AF-A_V3.6.1.1_TF_MCF46-4GB-12Y_V3_20260826161216.bin",
+        "md5": "12b2cb041f59e379f0015c8aaab8a23d",
+        "release_date": "20260826",
+        "sha256": "fd22c91d4e5b3691402d2ca25f01d93ceb924d049bfb7a67f4ab6c66f9004307",
+        "size": 12495708,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/public/MCF46-4GB-12Y_AF_V3-A_4G_TF/firmware_MCF46_V3_AF-A_V3.6.1.1_TF_MCF46-4GB-12Y_V3_20260826161216.bin",
+        "version": "3.6.1.1"
       }
     ]
   },
@@ -6875,6 +7084,139 @@
       }
     ]
   },
+  "r1800": {
+    "APPName": "public",
+    "DeviceCategory": "4",
+    "DeviceType": "MCF46-4GB-12Y_AF_V3-A_TF",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T18:11:45Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1799__firmware_MCF46_V3_AF-A_V3.6.1.1_TF_MCF46-4GB-12Y_V3_20260826161216.bin",
+        "file": "firmware_MCF46_V3_AF-A_V3.6.1.1_TF_MCF46-4GB-12Y_V3_20260826161216.bin",
+        "md5": "12b2cb041f59e379f0015c8aaab8a23d",
+        "release_date": "20260826",
+        "sha256": "fd22c91d4e5b3691402d2ca25f01d93ceb924d049bfb7a67f4ab6c66f9004307",
+        "size": 12495708,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/public/MCF46-4GB-12Y_AF_V3-A_TF/firmware_MCF46_V3_AF-A_V3.6.1.1_TF_MCF46-4GB-12Y_V3_20260826161216.bin",
+        "version": "3.6.1.1"
+      }
+    ]
+  },
+  "r1801": {
+    "APPName": "public",
+    "DeviceCategory": "4",
+    "DeviceType": "MC-F46-4GB_V3-A_4G_TF",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T18:11:50Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1801__firmware_MCF46_V3-A_V3.6.1.1_TF_MC-F46-4GB_V3_20260826161225.bin",
+        "file": "firmware_MCF46_V3-A_V3.6.1.1_TF_MC-F46-4GB_V3_20260826161225.bin",
+        "md5": "ebc9dab69dfce154d6fa7e53367effb6",
+        "release_date": "20260826",
+        "sha256": "3857d2a4dadb094df4da312d376171654ac40b9c299c7b4b3937e746593bcd5b",
+        "size": 12192604,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/public/MC-F46-4GB_V3-A_4G_TF/firmware_MCF46_V3-A_V3.6.1.1_TF_MC-F46-4GB_V3_20260826161225.bin",
+        "version": "3.6.1.1"
+      }
+    ]
+  },
+  "r1802": {
+    "APPName": "public",
+    "DeviceCategory": "4",
+    "DeviceType": "MC-F46-4GB_V3-A_TF",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T18:11:53Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1801__firmware_MCF46_V3-A_V3.6.1.1_TF_MC-F46-4GB_V3_20260826161225.bin",
+        "file": "firmware_MCF46_V3-A_V3.6.1.1_TF_MC-F46-4GB_V3_20260826161225.bin",
+        "md5": "ebc9dab69dfce154d6fa7e53367effb6",
+        "release_date": "20260826",
+        "sha256": "3857d2a4dadb094df4da312d376171654ac40b9c299c7b4b3937e746593bcd5b",
+        "size": 12192604,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/public/MC-F46-4GB_V3-A_TF/firmware_MCF46_V3-A_V3.6.1.1_TF_MC-F46-4GB_V3_20260826161225.bin",
+        "version": "3.6.1.1"
+      }
+    ]
+  },
+  "r1803": {
+    "APPName": "public",
+    "DeviceCategory": "4",
+    "DeviceType": "MC-F46-4GA_V4-A_4G_TF",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T18:11:59Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1803__firmware_MCF46_V4-A_V3.6.1.1_TF_MC-F46-4GA_V4_20260826161236.bin",
+        "file": "firmware_MCF46_V4-A_V3.6.1.1_TF_MC-F46-4GA_V4_20260826161236.bin",
+        "md5": "423245dc04697a6fe5cd3987dd45d3f0",
+        "release_date": "20260826",
+        "sha256": "8f05e78aa6c99fb950b2a70740efa6fbac46153b1dc98ecae92ba9113c260863",
+        "size": 11647836,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/public/MC-F46-4GA_V4-A_4G_TF/firmware_MCF46_V4-A_V3.6.1.1_TF_MC-F46-4GA_V4_20260826161236.bin",
+        "version": "3.6.1.1"
+      }
+    ]
+  },
+  "r1805": {
+    "APPName": "public",
+    "DeviceCategory": "w",
+    "DeviceType": "MCF46-W12Y_AF_V2-A_TF",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T18:12:05Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1805__firmware_MCF46_V2_AF-A_V3.6.1.1_TF_MCF46-W12Y_V2_20260826161312.bin",
+        "file": "firmware_MCF46_V2_AF-A_V3.6.1.1_TF_MCF46-W12Y_V2_20260826161312.bin",
+        "md5": "eef6fd5a654d5669717626658bcc22b2",
+        "release_date": "20260826",
+        "sha256": "44a9c643f111734933a6ecabd23b67cf5979ae34e9ee49480ef8cddaaad67df6",
+        "size": 13282140,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/public/MCF46-W12Y_AF_V2-A_TF/firmware_MCF46_V2_AF-A_V3.6.1.1_TF_MCF46-W12Y_V2_20260826161312.bin",
+        "version": "3.6.1.1"
+      }
+    ]
+  },
+  "r1806": {
+    "APPName": "public",
+    "DeviceCategory": "w",
+    "DeviceType": "MCF46-W18Y_AF_V2-A_TF",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T18:12:11Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1806__firmware_MCF46_V2_AF-A_V3.6.1.1_TF_MCF46-W18Y_V2_20260826161322.bin",
+        "file": "firmware_MCF46_V2_AF-A_V3.6.1.1_TF_MCF46-W18Y_V2_20260826161322.bin",
+        "md5": "d4f63a624e6cd0e602132391ea3abb22",
+        "release_date": "20260826",
+        "sha256": "c8a4ece12a5ace23b9d10a6e5c012fff67211685210600c4c580cfdc9bfc29b3",
+        "size": 12704604,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/public/MCF46-W18Y_AF_V2-A_TF/firmware_MCF46_V2_AF-A_V3.6.1.1_TF_MCF46-W18Y_V2_20260826161322.bin",
+        "version": "3.6.1.1"
+      }
+    ]
+  },
+  "r1809": {
+    "APPName": "_TV",
+    "DeviceCategory": "i",
+    "DeviceType": "MTF45-4GD_AF_V1-A_4G_TV-GB",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T18:12:16Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1809__firmware_MTF45_V1_AF-GB-A_V3.6.1.1_TV_MTF45-4GD_V1_20260902155351.bin",
+        "file": "firmware_MTF45_V1_AF-GB-A_V3.6.1.1_TV_MTF45-4GD_V1_20260902155351.bin",
+        "md5": "da64827483916328e0bd330ba75c63f8",
+        "release_date": "20260902",
+        "sha256": "cefcf9f0ba3a1054fe7ed57ded096d17b619a5f6d57e207c0ec7f3c7aa72515a",
+        "size": 10531468,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/public/MTF45-4GD_AF_V1-A_4G_TV-GB/firmware_MTF45_V1_AF-GB-A_V3.6.1.1_TV_MTF45-4GD_V1_20260902155351.bin",
+        "version": "3.6.1.1"
+      }
+    ]
+  },
   "r181": {
     "APPName": "_TV",
     "DeviceCategory": "i",
@@ -6891,6 +7233,44 @@
         "size": 9876704,
         "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_TV/MT-E8-W_AF_V0_BU_TV_3MP/firmware_MTE8_V0_AF-W_V3.2.0.5_TV_MT-E8-W_V0_202210222349.bin",
         "version": "3.2.0.5"
+      }
+    ]
+  },
+  "r1810": {
+    "APPName": "public",
+    "DeviceCategory": "4",
+    "DeviceType": "MYQ12D_AF_V0-A_TF-GB-H5_",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T18:12:21Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1810__firmware_MYQ12F_V0_AF-GB-H5_V3.6.1.1_TF_MYQ12F-4G_V0_20260902171743.bin",
+        "file": "firmware_MYQ12F_V0_AF-GB-H5_V3.6.1.1_TF_MYQ12F-4G_V0_20260902171743.bin",
+        "md5": "2c02b044f4e1897161c9071dee9a14fc",
+        "release_date": "20260902",
+        "sha256": "15a282cfeae30d89e4ff2b249bb54bf0afcf64b41c85c0a286a408fee2ec1ed5",
+        "size": 11198548,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/public/MYQ12D_AF_V0-A_TF-GB-H5_/firmware_MYQ12F_V0_AF-GB-H5_V3.6.1.1_TF_MYQ12F-4G_V0_20260902171743.bin",
+        "version": "3.6.1.1"
+      }
+    ]
+  },
+  "r1811": {
+    "APPName": "public",
+    "DeviceCategory": "4",
+    "DeviceType": "MYQ12D_AF_V0-A_TF-GB",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T18:12:25Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1810__firmware_MYQ12F_V0_AF-GB-H5_V3.6.1.1_TF_MYQ12F-4G_V0_20260902171743.bin",
+        "file": "firmware_MYQ12F_V0_AF-GB-H5_V3.6.1.1_TF_MYQ12F-4G_V0_20260902171743.bin",
+        "md5": "2c02b044f4e1897161c9071dee9a14fc",
+        "release_date": "20260902",
+        "sha256": "15a282cfeae30d89e4ff2b249bb54bf0afcf64b41c85c0a286a408fee2ec1ed5",
+        "size": 11198548,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/public/MYQ12D_AF_V0-A_TF-GB/firmware_MYQ12F_V0_AF-GB-H5_V3.6.1.1_TF_MYQ12F-4G_V0_20260902171743.bin",
+        "version": "3.6.1.1"
       }
     ]
   },
