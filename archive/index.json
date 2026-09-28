@@ -1120,6 +1120,386 @@
       }
     ]
   },
+  "r249": {
+    "APPName": "_WTD",
+    "DeviceCategory": "n",
+    "DeviceType": "MN3109B_V0",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:26:28Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r249__firmware_S10S1_V10-A1_V7.2.7.06_WTD_202505291222.bin",
+        "file": "firmware_S10S1_V10-A1_V7.2.7.06_WTD_202505291222.bin",
+        "md5": "a3d1f113a6e3c76ca11f98037b77d449",
+        "release_date": "20250529",
+        "sha256": "025743699b7f19e41ab67c0fe3c6c12692dac0d6c42838b4a2a660bc5d257710",
+        "size": 14139484,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_WTD/MN3109B_V0/firmware_S10S1_V10-A1_V7.2.7.06_WTD_202505291222.bin",
+        "version": "7.2.7.06"
+      }
+    ]
+  },
+  "r251": {
+    "APPName": "_WTD",
+    "DeviceCategory": "n",
+    "DeviceType": "MN3116B_V0",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:26:33Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r251__firmware_S16S1_V10-A1_V7.2.7.06_WTD_202505291222.bin",
+        "file": "firmware_S16S1_V10-A1_V7.2.7.06_WTD_202505291222.bin",
+        "md5": "ded363625beef8dd6b42d60c788af5cf",
+        "release_date": "20250529",
+        "sha256": "11902fb996a20556d8a07d755007dccbe0440aeadbf06580084bbef38858f5cf",
+        "size": 14139484,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_WTD/MN3116B_V0/firmware_S16S1_V10-A1_V7.2.7.06_WTD_202505291222.bin",
+        "version": "7.2.7.06"
+      }
+    ]
+  },
+  "r253": {
+    "APPName": "_WTD",
+    "DeviceCategory": "n",
+    "DeviceType": "MN3236B_V0",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:26:40Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r253__firmware_S36S2_V10-A1_V7.2.7.06_WTD_202505291222.bin",
+        "file": "firmware_S36S2_V10-A1_V7.2.7.06_WTD_202505291222.bin",
+        "md5": "c247cd21d37eaca8e828a3f1bab2d1e3",
+        "release_date": "20250529",
+        "sha256": "2e908b4d1744ba3d80165e57f145365d3529342861d78b2859157df31562cc54",
+        "size": 21268964,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_WTD/MN3236B_V0/firmware_S36S2_V10-A1_V7.2.7.06_WTD_202505291222.bin",
+        "version": "7.2.7.06"
+      }
+    ]
+  },
+  "r261": {
+    "APPName": "_YSSD",
+    "DeviceCategory": "4",
+    "DeviceType": "MC-F46-4GA_AF_V4-A_4G_YSSD-RTMP",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:26:45Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r261__firmware_MCF46_V4_AF-RTMP-A_V3.2.4.5_YSSD_MCF46-4G-QF-YSSD2_V4_202309041007.bin",
+        "file": "firmware_MCF46_V4_AF-RTMP-A_V3.2.4.5_YSSD_MCF46-4G-QF-YSSD2_V4_202309041007.bin",
+        "md5": "45eea971d52aee7a8c4d7447b5e0a3c3",
+        "release_date": "20230904",
+        "sha256": "a63bac997c21a177b5bbdb8370da98ed69db4e305a0c8ebea096511af8950444",
+        "size": 12200796,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_YSSD/MC-F46-4GA_AF_V4-A_4G_YSSD-RTMP/firmware_MCF46_V4_AF-RTMP-A_V3.2.4.5_YSSD_MCF46-4G-QF-YSSD2_V4_202309041007.bin",
+        "version": "3.2.4.5"
+      }
+    ]
+  },
+  "r262": {
+    "APPName": "_YSSD",
+    "DeviceCategory": "4",
+    "DeviceType": "MC-F46-4GD-18QF_AF_V5-A_4G_YSSD",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:26:51Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r262__firmware_MCF46_V105_AF-RTMP-A-DH_V3.2.4.3_YSSD_MCF46-4G-QF-YSSD1_V5_202307261804.bin",
+        "file": "firmware_MCF46_V105_AF-RTMP-A-DH_V3.2.4.3_YSSD_MCF46-4G-QF-YSSD1_V5_202307261804.bin",
+        "md5": "7f72074e67fea013e875b7b2015804c1",
+        "release_date": "20230727",
+        "sha256": "90e15c0953be14b3ea560d346f60516f3def20f4688adf322f7ddea45c624631",
+        "size": 11574108,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_YSSD/MC-F46-4GD-18QF_AF_V5-A_4G_YSSD/firmware_MCF46_V105_AF-RTMP-A-DH_V3.2.4.3_YSSD_MCF46-4G-QF-YSSD1_V5_202307261804.bin",
+        "version": "3.2.4.3"
+      }
+    ]
+  },
+  "r263": {
+    "APPName": "_YSSD",
+    "DeviceCategory": "i",
+    "DeviceType": "MC800G-183-YSSD2_AF_V101-A_YSSD",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:26:58Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r263__firmware_MC800G_V101_AF-RTMP-A-H5_V3.3.1.1_YSSD_MC800G-183-YSSD4_V101_202404101806.bin",
+        "file": "firmware_MC800G_V101_AF-RTMP-A-H5_V3.3.1.1_YSSD_MC800G-183-YSSD4_V101_202404101806.bin",
+        "md5": "501595c38dc1755eff48126141bc5055",
+        "release_date": "20240627",
+        "sha256": "c4e1854d06e4adfc479e4cce8cf07df597073fe5e8075f503806c6f6cd78c1b8",
+        "size": 18636264,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_YSSD/MC800G-183-YSSD2_AF_V101-A_YSSD/firmware_MC800G_V101_AF-RTMP-A-H5_V3.3.1.1_YSSD_MC800G-183-YSSD4_V101_202404101806.bin",
+        "version": "3.3.1.1"
+      }
+    ]
+  },
+  "r264": {
+    "APPName": "_YSSD",
+    "DeviceCategory": "i",
+    "DeviceType": "MC800G-LH-YSSD3_AF_V101-A_YSSD-",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:27:04Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r264__firmware_MC800G_V101_AF-RTMP-A-H5_V3.3.1.2_YSSD_MC800G-LH-YSSD3_V101_202405071536.bin",
+        "file": "firmware_MC800G_V101_AF-RTMP-A-H5_V3.3.1.2_YSSD_MC800G-LH-YSSD3_V101_202405071536.bin",
+        "md5": "0e8c1a6dcc3c71c674d313011981d964",
+        "release_date": "20241211",
+        "sha256": "d26ddf4f6eea99dd4a9e71b0bb612ad0ccfe174e8316c32a051ac859f0247d3e",
+        "size": 18595304,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_YSSD/MC800G-LH-YSSD3_AF_V101-A_YSSD-/firmware_MC800G_V101_AF-RTMP-A-H5_V3.3.1.2_YSSD_MC800G-LH-YSSD3_V101_202405071536.bin",
+        "version": "3.3.1.2"
+      }
+    ]
+  },
+  "r265": {
+    "APPName": "_YSSD",
+    "DeviceCategory": "i",
+    "DeviceType": "MC800G-QF-YSSD1_AF_V101-A_YSSD-",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:27:10Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r265__firmware_MC800G_V101_AF-RTMP-A-DH-H5_V3.2.4.3_YSSD_MC800G-YSSD2_V1_202307261704.bin",
+        "file": "firmware_MC800G_V101_AF-RTMP-A-DH-H5_V3.2.4.3_YSSD_MC800G-YSSD2_V1_202307261704.bin",
+        "md5": "15cd0a48d2a15ab581154af83cc0f628",
+        "release_date": "20230803",
+        "sha256": "189f346ac5a93938600ca0cdb7c641410e2feaeeec49df703dfe7b8a1e3d0dfb",
+        "size": 18480616,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_YSSD/MC800G-QF-YSSD1_AF_V101-A_YSSD-/firmware_MC800G_V101_AF-RTMP-A-DH-H5_V3.2.4.3_YSSD_MC800G-YSSD2_V1_202307261704.bin",
+        "version": "3.2.4.3"
+      }
+    ]
+  },
+  "r266": {
+    "APPName": "_YSSD",
+    "DeviceCategory": "i",
+    "DeviceType": "MC800S-YSSD2_AF_V103-A_YSSD-RTM",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:27:16Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r266__firmware_MC800S_V103_AF-RTMP-A-DH-H5_V3.2.4.5_YSSD_MC800S-YSSD2_V3_202308241041.bin",
+        "file": "firmware_MC800S_V103_AF-RTMP-A-DH-H5_V3.2.4.5_YSSD_MC800S-YSSD2_V3_202308241041.bin",
+        "md5": "1e05944caf03e35645c97be66d21418d",
+        "release_date": "20230912",
+        "sha256": "a93d1448ec8b5fffcd3a7174d320402e7cd80dc7a05985522b77092c91c19bfb",
+        "size": 13467900,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_YSSD/MC800S-YSSD2_AF_V103-A_YSSD-RTM/firmware_MC800S_V103_AF-RTMP-A-DH-H5_V3.2.4.5_YSSD_MC800S-YSSD2_V3_202308241041.bin",
+        "version": "3.2.4.5"
+      }
+    ]
+  },
+  "r267": {
+    "APPName": "_YSSD",
+    "DeviceCategory": "4",
+    "DeviceType": "MCF46-4G-QF-YSSD1_AF_V105-A_4G_",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:27:21Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r267__firmware_MCF46_V105_AF-RTMP-A-DH_V3.2.4.9_YSSD_MCF46-4G-YSSD1_V5_202309271512.bin",
+        "file": "firmware_MCF46_V105_AF-RTMP-A-DH_V3.2.4.9_YSSD_MCF46-4G-YSSD1_V5_202309271512.bin",
+        "md5": "9b9773f73e439ff53a93909426137485",
+        "release_date": "20231008",
+        "sha256": "c26ab57f3d452dcf6a8960218b17a2e7d0f76b66d4b1cafd3d7ae9136a727392",
+        "size": 11561820,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_YSSD/MCF46-4G-QF-YSSD1_AF_V105-A_4G_/firmware_MCF46_V105_AF-RTMP-A-DH_V3.2.4.9_YSSD_MCF46-4G-YSSD1_V5_202309271512.bin",
+        "version": "3.2.4.9"
+      }
+    ]
+  },
+  "r268": {
+    "APPName": "_YSSD",
+    "DeviceCategory": "4",
+    "DeviceType": "MCF46-4G-QF-YSSD1_AF_V105-A_4G_Y",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:27:25Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r267__firmware_MCF46_V105_AF-RTMP-A-DH_V3.2.4.9_YSSD_MCF46-4G-YSSD1_V5_202309271512.bin",
+        "file": "firmware_MCF46_V105_AF-RTMP-A-DH_V3.2.4.9_YSSD_MCF46-4G-YSSD1_V5_202309271512.bin",
+        "md5": "9b9773f73e439ff53a93909426137485",
+        "release_date": "20231008",
+        "sha256": "c26ab57f3d452dcf6a8960218b17a2e7d0f76b66d4b1cafd3d7ae9136a727392",
+        "size": 11561820,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_YSSD/MCF46-4G-QF-YSSD1_AF_V105-A_4G_Y/firmware_MCF46_V105_AF-RTMP-A-DH_V3.2.4.9_YSSD_MCF46-4G-YSSD1_V5_202309271512.bin",
+        "version": "3.2.4.9"
+      }
+    ]
+  },
+  "r269": {
+    "APPName": "_YSSD",
+    "DeviceCategory": "4",
+    "DeviceType": "MCF46-4G-QF-YSSD1_AF_V5-A_4G_YS",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:27:31Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r269__firmware_MCF46_V5_AF-RTMP-A_V3.2.4.5_YSSD_MCF46-4G-YSSD1_V5_202308291018.bin",
+        "file": "firmware_MCF46_V5_AF-RTMP-A_V3.2.4.5_YSSD_MCF46-4G-YSSD1_V5_202308291018.bin",
+        "md5": "9a65e9f75ef9423a118442d29646f8e0",
+        "release_date": "20230916",
+        "sha256": "189da148a3f073853610d2f4549f410ed12903ae8963e9107db410e73973556e",
+        "size": 11471708,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_YSSD/MCF46-4G-QF-YSSD1_AF_V5-A_4G_YS/firmware_MCF46_V5_AF-RTMP-A_V3.2.4.5_YSSD_MCF46-4G-YSSD1_V5_202308291018.bin",
+        "version": "3.2.4.5"
+      }
+    ]
+  },
+  "r270": {
+    "APPName": "_YSSD",
+    "DeviceCategory": "4",
+    "DeviceType": "MCF46-4G-QF-YSSD2_AF_V105-A_4G_",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:27:36Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r270__firmware_MCF46_V105_AF-RTMP-A-DH_V3.2.3.3_YSSD_MCF46-4G-YSSD2_V5_202306200847.bin",
+        "file": "firmware_MCF46_V105_AF-RTMP-A-DH_V3.2.3.3_YSSD_MCF46-4G-YSSD2_V5_202306200847.bin",
+        "md5": "8fab137324b3190b5f40073c7492842b",
+        "release_date": "20230620",
+        "sha256": "ec6e34a5af57b9ccbbd6f6286e15a816a5e84806ff9e6ae44d4b4f9b5d4fc585",
+        "size": 11823964,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_YSSD/MCF46-4G-QF-YSSD2_AF_V105-A_4G_/firmware_MCF46_V105_AF-RTMP-A-DH_V3.2.3.3_YSSD_MCF46-4G-YSSD2_V5_202306200847.bin",
+        "version": "3.2.3.3"
+      }
+    ]
+  },
+  "r271": {
+    "APPName": "_YSSD",
+    "DeviceCategory": "4",
+    "DeviceType": "MCF46-4G-YSSD1_AF_V105-A_4G_YSS",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:27:40Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r267__firmware_MCF46_V105_AF-RTMP-A-DH_V3.2.4.9_YSSD_MCF46-4G-YSSD1_V5_202309271512.bin",
+        "file": "firmware_MCF46_V105_AF-RTMP-A-DH_V3.2.4.9_YSSD_MCF46-4G-YSSD1_V5_202309271512.bin",
+        "md5": "9b9773f73e439ff53a93909426137485",
+        "release_date": "20231008",
+        "sha256": "c26ab57f3d452dcf6a8960218b17a2e7d0f76b66d4b1cafd3d7ae9136a727392",
+        "size": 11561820,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_YSSD/MCF46-4G-YSSD1_AF_V105-A_4G_YSS/firmware_MCF46_V105_AF-RTMP-A-DH_V3.2.4.9_YSSD_MCF46-4G-YSSD1_V5_202309271512.bin",
+        "version": "3.2.4.9"
+      }
+    ]
+  },
+  "r272": {
+    "APPName": "_YSSD",
+    "DeviceCategory": "4",
+    "DeviceType": "MCF46-4G-YSSD2_AF_V105-A_4G_YSS",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:27:44Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r262__firmware_MCF46_V105_AF-RTMP-A-DH_V3.2.4.3_YSSD_MCF46-4G-QF-YSSD1_V5_202307261804.bin",
+        "file": "firmware_MCF46_V105_AF-RTMP-A-DH_V3.2.4.3_YSSD_MCF46-4G-QF-YSSD1_V5_202307261804.bin",
+        "md5": "7f72074e67fea013e875b7b2015804c1",
+        "release_date": "20230727",
+        "sha256": "90e15c0953be14b3ea560d346f60516f3def20f4688adf322f7ddea45c624631",
+        "size": 11574108,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_YSSD/MCF46-4G-YSSD2_AF_V105-A_4G_YSS/firmware_MCF46_V105_AF-RTMP-A-DH_V3.2.4.3_YSSD_MCF46-4G-QF-YSSD1_V5_202307261804.bin",
+        "version": "3.2.4.3"
+      }
+    ]
+  },
+  "r273": {
+    "APPName": "_YSSD",
+    "DeviceCategory": "w",
+    "DeviceType": "MCF46-W-18QF_AF_V2-A_YSSD-RTMP-",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:27:50Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r273__firmware_MCF46_V2_AF-RTMP-A-DH-H5_V3.3.2.0_YSSD_MCF46-WIFI-QF-YSSD1_V2_202306260920.bin",
+        "file": "firmware_MCF46_V2_AF-RTMP-A-DH-H5_V3.3.2.0_YSSD_MCF46-WIFI-QF-YSSD1_V2_202306260920.bin",
+        "md5": "8fa62e1374fa3bcb0f5b8e747617546f",
+        "release_date": "20240724",
+        "sha256": "85613ff52ba4ba96a5859b168bcace53e762f5677671414fc119e8b6d95bf358",
+        "size": 13372252,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_YSSD/MCF46-W-18QF_AF_V2-A_YSSD-RTMP-/firmware_MCF46_V2_AF-RTMP-A-DH-H5_V3.3.2.0_YSSD_MCF46-WIFI-QF-YSSD1_V2_202306260920.bin",
+        "version": "3.3.2.0"
+      }
+    ]
+  },
+  "r274": {
+    "APPName": "_YSSD",
+    "DeviceCategory": "w",
+    "DeviceType": "MCF46-WIFI-QF-YSSD1_AF_V2-A_YSS",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:27:56Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r274__firmware_MCF46_V2_AF-RTMP-A-DH_V3.2.4.9_YSSD_MCF46-WIFI-YSSD1_V2_202309271527.bin",
+        "file": "firmware_MCF46_V2_AF-RTMP-A-DH_V3.2.4.9_YSSD_MCF46-WIFI-YSSD1_V2_202309271527.bin",
+        "md5": "c37d38ca23adeab89b5567a173a285ec",
+        "release_date": "20231005",
+        "sha256": "3dc48a1f331d1ad3eff6a48b300cd7657c45953e0aa94dd4bf24434d3e1954c9",
+        "size": 13519708,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_YSSD/MCF46-WIFI-QF-YSSD1_AF_V2-A_YSS/firmware_MCF46_V2_AF-RTMP-A-DH_V3.2.4.9_YSSD_MCF46-WIFI-YSSD1_V2_202309271527.bin",
+        "version": "3.2.4.9"
+      }
+    ]
+  },
+  "r275": {
+    "APPName": "_YSSD",
+    "DeviceCategory": "w",
+    "DeviceType": "MCF46-WIFI-QF-YSSD2_AF_V2-A_YSSD-RTMP-DH-H5",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:28:01Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r275__firmware_MCF46_V2_AF-RTMP-A-DH-H5_V3.2.2.2_YSSD_MCF46-WIFI-QF-YSSD2_V2_202303011419.bin",
+        "file": "firmware_MCF46_V2_AF-RTMP-A-DH-H5_V3.2.2.2_YSSD_MCF46-WIFI-QF-YSSD2_V2_202303011419.bin",
+        "md5": "2f3fa98d06489e65f5852afe1685e2e5",
+        "release_date": "20230301",
+        "sha256": "a827692084c1a184c340af81467a2686865985427b3a252fd1c655b48a2fdff2",
+        "size": 13441884,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_YSSD/MCF46-WIFI-QF-YSSD2_AF_V2-A_YSSD-RTMP-DH-H5/firmware_MCF46_V2_AF-RTMP-A-DH-H5_V3.2.2.2_YSSD_MCF46-WIFI-QF-YSSD2_V2_202303011419.bin",
+        "version": "3.2.2.2"
+      }
+    ]
+  },
+  "r276": {
+    "APPName": "_YSSD",
+    "DeviceCategory": "w",
+    "DeviceType": "MCF46-WIFI-YSSD1_AF_V102-A_YSSD",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:28:07Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r276__firmware_MCF46_V102_AF-RTMP-A_V3.2.4.5_YSSD_MCF46-WIFI-YSSD2_V2_202308161036.bin",
+        "file": "firmware_MCF46_V102_AF-RTMP-A_V3.2.4.5_YSSD_MCF46-WIFI-YSSD2_V2_202308161036.bin",
+        "md5": "40150755bd003a621371fa914c4be383",
+        "release_date": "20230911",
+        "sha256": "69d1f6f7d12b697289b4c1cb8605a2054f0e03fce748d444c10acfd7bfde9604",
+        "size": 12725084,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_YSSD/MCF46-WIFI-YSSD1_AF_V102-A_YSSD/firmware_MCF46_V102_AF-RTMP-A_V3.2.4.5_YSSD_MCF46-WIFI-YSSD2_V2_202308161036.bin",
+        "version": "3.2.4.5"
+      }
+    ]
+  },
+  "r277": {
+    "APPName": "_YSSD",
+    "DeviceCategory": "w",
+    "DeviceType": "MCF46-W_AF_V2-A_YSSD-DH-H5",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:28:12Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r277__firmware_MCF46_V2_AF-RTMP-A-DH-H5_V3.2.3.3_YSSD_MCF46-WIFI-QF-YSSD1_V2_202306260920.bin",
+        "file": "firmware_MCF46_V2_AF-RTMP-A-DH-H5_V3.2.3.3_YSSD_MCF46-WIFI-QF-YSSD1_V2_202306260920.bin",
+        "md5": "82e8e7de23cf5bb61ef20052cf4b5ca1",
+        "release_date": "20240724",
+        "sha256": "b94a735c7da03b951dfd4d2a4de0e0b34dbca42daca95dabd94c72b6abd0e890",
+        "size": 13437788,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//_YSSD/MCF46-W_AF_V2-A_YSSD-DH-H5/firmware_MCF46_V2_AF-RTMP-A-DH-H5_V3.2.3.3_YSSD_MCF46-WIFI-QF-YSSD1_V2_202306260920.bin",
+        "version": "3.2.3.3"
+      }
+    ]
+  },
   "r61": {
     "APPName": "public",
     "DeviceCategory": "w",
