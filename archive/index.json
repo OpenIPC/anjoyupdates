@@ -2260,6 +2260,386 @@
       }
     ]
   },
+  "r331": {
+    "APPName": "public",
+    "DeviceCategory": "i",
+    "DeviceType": "MCF40_V0_BU_LIGHT",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:32:01Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r331__firmware_MCF40_V0_V3.2.2.2_LIGHT_202302271606.bin",
+        "file": "firmware_MCF40_V0_V3.2.2.2_LIGHT_202302271606.bin",
+        "md5": "fc97fa35568eb677f398be74dc2bfe5b",
+        "release_date": "20230227",
+        "sha256": "c5ff6b33409b7213c0428afdcc4e4cba985cda1f10a3f57fb21adc134428ada8",
+        "size": 6551636,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//public/MCF40_V0_BU_LIGHT/firmware_MCF40_V0_V3.2.2.2_LIGHT_202302271606.bin",
+        "version": "3.2.2.2"
+      }
+    ]
+  },
+  "r332": {
+    "APPName": "public",
+    "DeviceCategory": "i",
+    "DeviceType": "MCF45_V0",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:32:06Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r332__firmware_MCF45_V0_V3.2.3.2_202305240905.bin",
+        "file": "firmware_MCF45_V0_V3.2.3.2_202305240905.bin",
+        "md5": "d44c2466b7f31b30e8eb0de32ea3bcbf",
+        "release_date": "20230608",
+        "sha256": "f47ca03880d7c444b8905455e631f8d589b64cbd7bfb1ab7ed5c33d38d8e161a",
+        "size": 7447760,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//public/MCF45_V0/firmware_MCF45_V0_V3.2.3.2_202305240905.bin",
+        "version": "3.2.3.2"
+      }
+    ]
+  },
+  "r335": {
+    "APPName": "public",
+    "DeviceCategory": "w",
+    "DeviceType": "MCF46-W_V0_LIGHT",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:32:11Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r335__firmware_MCF46_V0_V3.0.7.7_LIGHT_MCF46-W_V0_202205091635.bin",
+        "file": "firmware_MCF46_V0_V3.0.7.7_LIGHT_MCF46-W_V0_202205091635.bin",
+        "md5": "8ad60ab80c72df2ac8e5c783903449ae",
+        "release_date": "20220512",
+        "sha256": "484a26b919eea921eb19df1370a41ce4c2b499f5512c2c14cb5df14c1b2173ca",
+        "size": 13411604,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//public/MCF46-W_V0_LIGHT/firmware_MCF46_V0_V3.0.7.7_LIGHT_MCF46-W_V0_202205091635.bin",
+        "version": "3.0.7.7"
+      }
+    ]
+  },
+  "r339": {
+    "APPName": "public",
+    "DeviceCategory": "i",
+    "DeviceType": "MCF46D_V1-A_TF",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:32:16Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r339__firmware_MCF46D_V1-A_V3.3.0.1_TF_202312051640.bin",
+        "file": "firmware_MCF46D_V1-A_V3.3.0.1_TF_202312051640.bin",
+        "md5": "ff42326843b49ef6e1057702f522a9e3",
+        "release_date": "20231208",
+        "sha256": "69fb4741794aae3d9f07a9365bf37874e9422b3ad2fbe759023671a71d9e45fb",
+        "size": 9964836,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//public/MCF46D_V1-A_TF/firmware_MCF46D_V1-A_V3.3.0.1_TF_202312051640.bin",
+        "version": "3.3.0.1"
+      }
+    ]
+  },
+  "r340": {
+    "APPName": "public",
+    "DeviceCategory": "i",
+    "DeviceType": "MCF46_V0-A_LIGHT",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:32:22Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r340__firmware_MCF46_V0_V3.2.0.6_LIGHT_202210261959.bin",
+        "file": "firmware_MCF46_V0_V3.2.0.6_LIGHT_202210261959.bin",
+        "md5": "d1ff2a4a66b07272008996d32490d197",
+        "release_date": "20250325",
+        "sha256": "783d8ba3353edffcc51bc4aee025c5062c7bedb22a49c0802d566ae94a81ff1a",
+        "size": 12353180,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//public/MCF46_V0-A_LIGHT/firmware_MCF46_V0_V3.2.0.6_LIGHT_202210261959.bin",
+        "version": "3.2.0.6"
+      }
+    ]
+  },
+  "r343": {
+    "APPName": "public",
+    "DeviceCategory": "i",
+    "DeviceType": "MCF50_V0_BU_STARC-H5",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:32:27Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r343__firmware_MCF50_V0-H5_V3.0.2.6_STARC_202011021136.bin",
+        "file": "firmware_MCF50_V0-H5_V3.0.2.6_STARC_202011021136.bin",
+        "md5": "876e9865453555527d740d88dfa51210",
+        "release_date": "20210610",
+        "sha256": "1b9d82952c90e7ba73b74c3708aba06d7a500c035a8bc470c56b77c9b9d9e58e",
+        "size": 8933324,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//public/MCF50_V0_BU_STARC-H5/firmware_MCF50_V0-H5_V3.0.2.6_STARC_202011021136.bin",
+        "version": "3.0.2.6"
+      }
+    ]
+  },
+  "r344": {
+    "APPName": "public",
+    "DeviceCategory": "i",
+    "DeviceType": "MCF52_V0_LIGHT",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:32:33Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r344__firmware_MCF52_V0_V3.0.7.5_LIGHT_202204211631.bin",
+        "file": "firmware_MCF52_V0_V3.0.7.5_LIGHT_202204211631.bin",
+        "md5": "653ac67b89f89cb0640c63e741c77850",
+        "release_date": "20220421",
+        "sha256": "2f3b0ee9708a351d6d2b83844408eb520ee96e1779e021879cb8b812042311f7",
+        "size": 12767484,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//public/MCF52_V0_LIGHT/firmware_MCF52_V0_V3.0.7.5_LIGHT_202204211631.bin",
+        "version": "3.0.7.5"
+      }
+    ]
+  },
+  "r345": {
+    "APPName": "public",
+    "DeviceCategory": "i",
+    "DeviceType": "MCF52_V1-A_LIGHT-H5",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:32:39Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r345__firmware_MCF52_V1-A-H5_V3.0.9.7_LIGHT_202208221058.bin",
+        "file": "firmware_MCF52_V1-A-H5_V3.0.9.7_LIGHT_202208221058.bin",
+        "md5": "640f104c2037dd9f131438c3edbc705b",
+        "release_date": "20220822",
+        "sha256": "e8a61ff59d3fa752150541e14c30056c6aa58e825939de86b48dcf5fe9befc86",
+        "size": 13582588,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//public/MCF52_V1-A_LIGHT-H5/firmware_MCF52_V1-A-H5_V3.0.9.7_LIGHT_202208221058.bin",
+        "version": "3.0.9.7"
+      }
+    ]
+  },
+  "r346": {
+    "APPName": "public",
+    "DeviceCategory": "i",
+    "DeviceType": "MCF56_V0-A_STARC-H5",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:32:44Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r346__firmware_MCF56_V0-A-H5_V3.0.9.1_STARC_202207061621.bin",
+        "file": "firmware_MCF56_V0-A-H5_V3.0.9.1_STARC_202207061621.bin",
+        "md5": "a4f7670fb2ba194de5a044ceb9dcc808",
+        "release_date": "20220706",
+        "sha256": "11cd91e5dc560d9b8cc923b34f9ce1c3a22a121ead372eb59bf33424a5e19720",
+        "size": 13795580,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//public/MCF56_V0-A_STARC-H5/firmware_MCF56_V0-A-H5_V3.0.9.1_STARC_202207061621.bin",
+        "version": "3.0.9.1"
+      }
+    ]
+  },
+  "r347": {
+    "APPName": "public",
+    "DeviceCategory": "i",
+    "DeviceType": "MCH12S_V0-A-H5",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:32:50Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r347__firmware_MCH12S_V0-A-H5_V3.3.0.2_202312201225.bin",
+        "file": "firmware_MCH12S_V0-A-H5_V3.3.0.2_202312201225.bin",
+        "md5": "5d6dd570e412612fdf4e0f1cadf5767a",
+        "release_date": "20231225",
+        "sha256": "0781ee0f8ba01d95c7e2a2d87f2fe0d8d476d811c6f528c67786e282b7ec0d35",
+        "size": 18223816,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//public/MCH12S_V0-A-H5/firmware_MCH12S_V0-A-H5_V3.3.0.2_202312201225.bin",
+        "version": "3.3.0.2"
+      }
+    ]
+  },
+  "r348": {
+    "APPName": "public",
+    "DeviceCategory": "i",
+    "DeviceType": "MCJ10_V0_BU_STARC",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:32:56Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r348__firmware_MCJ10_V0_V3.0.2.7_STARC_202011171003.bin",
+        "file": "firmware_MCJ10_V0_V3.0.2.7_STARC_202011171003.bin",
+        "md5": "f2c89a7d601fda792b1b70e775402499",
+        "release_date": "20210610",
+        "sha256": "a70e7026b468d9a678228e8c2446e4aa724e80510bb0f94277163f975c1c8a8c",
+        "size": 6800700,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//public/MCJ10_V0_BU_STARC/firmware_MCJ10_V0_V3.0.2.7_STARC_202011171003.bin",
+        "version": "3.0.2.7"
+      }
+    ]
+  },
+  "r349": {
+    "APPName": "public",
+    "DeviceCategory": "4",
+    "DeviceType": "MCJ12-4GYUGA_AF_V0_BU_TV",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:32:59Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r177__firmware_MCJ12_V0_AF-W-4G2_V3.0.6.1_TV_MCJ12-4GYUGA_V0_202110141610.bin",
+        "file": "firmware_MCJ12_V0_AF-W-4G2_V3.0.6.1_TV_MCJ12-4GYUGA_V0_202110141610.bin",
+        "md5": "5a5e1c63f048984f2b825c35d81e69c2",
+        "release_date": "20211014",
+        "sha256": "b2bdd0934af3e5605e76738ad4d784db43ec160577e3939969142914514aa23c",
+        "size": 8932816,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//public/MCJ12-4GYUGA_AF_V0_BU_TV/firmware_MCJ12_V0_AF-W-4G2_V3.0.6.1_TV_MCJ12-4GYUGA_V0_202110141610.bin",
+        "version": "3.0.6.1"
+      }
+    ]
+  },
+  "r350": {
+    "APPName": "public",
+    "DeviceCategory": "i",
+    "DeviceType": "MCJ12_V0-A_BU_STARC-H5",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:33:06Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r350__firmware_MCJ12_V0-A-H5_V3.0.6.5_STARC_202203251700.bin",
+        "file": "firmware_MCJ12_V0-A-H5_V3.0.6.5_STARC_202203251700.bin",
+        "md5": "eb630f41e39dfeeda8b8ef6a866a1040",
+        "release_date": "20220325",
+        "sha256": "f386e301acd71e0995c5f1a2471803837f5cf28f56ee094f2d830099130a9cc2",
+        "size": 8836428,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//public/MCJ12_V0-A_BU_STARC-H5/firmware_MCJ12_V0-A-H5_V3.0.6.5_STARC_202203251700.bin",
+        "version": "3.0.6.5"
+      }
+    ]
+  },
+  "r351": {
+    "APPName": "public",
+    "DeviceCategory": "i",
+    "DeviceType": "MCJ12_V0_BU_STARC_H5",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:33:11Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r351__firmware_MCJ12_V0_V3.0.5.1_STARC_202106281037.bin",
+        "file": "firmware_MCJ12_V0_V3.0.5.1_STARC_202106281037.bin",
+        "md5": "0a6c81080587f54727b5f8e5fefc19a2",
+        "release_date": "20210628",
+        "sha256": "d74d7de76be20fc9780c682a5bc0542accab543577554f0ec895f7baad72dc68",
+        "size": 7423308,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//public/MCJ12_V0_BU_STARC_H5/firmware_MCJ12_V0_V3.0.5.1_STARC_202106281037.bin",
+        "version": "3.0.5.1"
+      }
+    ]
+  },
+  "r352": {
+    "APPName": "public",
+    "DeviceCategory": "i",
+    "DeviceType": "MCJ20_V0_BU_STARC",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:33:16Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r352__firmware_MCJ20_V0_V3.0.4.1_STARC_202103181712.bin",
+        "file": "firmware_MCJ20_V0_V3.0.4.1_STARC_202103181712.bin",
+        "md5": "7dafb1bd62699b009433c3a71226e613",
+        "release_date": "20210610",
+        "sha256": "4c934132566d9b852b721fe8128037006a658581a7dd9ad136b97c323f4a25ca",
+        "size": 7264824,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//public/MCJ20_V0_BU_STARC/firmware_MCJ20_V0_V3.0.4.1_STARC_202103181712.bin",
+        "version": "3.0.4.1"
+      }
+    ]
+  },
+  "r353": {
+    "APPName": "public",
+    "DeviceCategory": "i",
+    "DeviceType": "MCJ21_V0-A_BU_LIGHT",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:33:21Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r353__firmware_MCJ21_V0-A_V3.0.9.6_LIGHT_202208121800.bin",
+        "file": "firmware_MCJ21_V0-A_V3.0.9.6_LIGHT_202208121800.bin",
+        "md5": "32e1da25c46d89da9175d407d1c6c693",
+        "release_date": "20220817",
+        "sha256": "7e4cce3877efaf95be535d1ebbb2329adf63a9284be3520553638d4d23e48db1",
+        "size": 9063664,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//public/MCJ21_V0-A_BU_LIGHT/firmware_MCJ21_V0-A_V3.0.9.6_LIGHT_202208121800.bin",
+        "version": "3.0.9.6"
+      }
+    ]
+  },
+  "r355": {
+    "APPName": "public",
+    "DeviceCategory": "i",
+    "DeviceType": "MCJ31D_V0",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:33:26Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r355__firmware_MCJ31D_V0_V3.4.1.6_202505121646.bin",
+        "file": "firmware_MCJ31D_V0_V3.4.1.6_202505121646.bin",
+        "md5": "c4395130acafeb4e2757eeee3d17b617",
+        "release_date": "20250530",
+        "sha256": "155495e7d7bd91211ba98cf250199177049febc1242d17ba2a256faa817b98ce",
+        "size": 8991924,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//public/MCJ31D_V0/firmware_MCJ31D_V0_V3.4.1.6_202505121646.bin",
+        "version": "3.4.1.6"
+      }
+    ]
+  },
+  "r356": {
+    "APPName": "public",
+    "DeviceCategory": "i",
+    "DeviceType": "MCJ40_V0",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:33:31Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r356__firmware_MCJ40_V0_V3.4.1.6_202505301736.bin",
+        "file": "firmware_MCJ40_V0_V3.4.1.6_202505301736.bin",
+        "md5": "ed132f18361f120e978ce8b5f4860b57",
+        "release_date": "20250530",
+        "sha256": "31774d4f38a5aa1e8f95d4b58512dfd945ea2069f9d0ce9968782a92d7773c97",
+        "size": 7321776,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//public/MCJ40_V0/firmware_MCJ40_V0_V3.4.1.6_202505301736.bin",
+        "version": "3.4.1.6"
+      }
+    ]
+  },
+  "r358": {
+    "APPName": "public",
+    "DeviceCategory": "i",
+    "DeviceType": "MCK2_V0",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:33:37Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r358__firmware_MCK2_V0-A-H5_V3.3.2.0_202407221226.bin",
+        "file": "firmware_MCK2_V0-A-H5_V3.3.2.0_202407221226.bin",
+        "md5": "90ef6be5b690ff2779bd116a3daf1c3c",
+        "release_date": "20240722",
+        "sha256": "680aad77b620b7139f5f5c8cc6d9350ea0a2610088650a89de817a2474a74fc8",
+        "size": 34381545,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//public/MCK2_V0/firmware_MCK2_V0-A-H5_V3.3.2.0_202407221226.bin",
+        "version": "3.3.2.0"
+      }
+    ]
+  },
+  "r359": {
+    "APPName": "public",
+    "DeviceCategory": "i",
+    "DeviceType": "MCK2_V0-A-H5",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-09-28T17:33:42Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r358__firmware_MCK2_V0-A-H5_V3.3.2.0_202407221226.bin",
+        "file": "firmware_MCK2_V0-A-H5_V3.3.2.0_202407221226.bin",
+        "md5": "90ef6be5b690ff2779bd116a3daf1c3c",
+        "release_date": "20240722",
+        "sha256": "680aad77b620b7139f5f5c8cc6d9350ea0a2610088650a89de817a2474a74fc8",
+        "size": 34381545,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com//public/MCK2_V0-A-H5/firmware_MCK2_V0-A-H5_V3.3.2.0_202407221226.bin",
+        "version": "3.3.2.0"
+      }
+    ]
+  },
   "r61": {
     "APPName": "public",
     "DeviceCategory": "w",
