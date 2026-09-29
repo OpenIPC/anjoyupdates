@@ -41,6 +41,14 @@ def items(index):
                   "size": r["size"]}
             if len(date) == 8 and date.isdigit():
                 it["published_at"] = f"{date[:4]}-{date[4:6]}-{date[6:]}T00:00:00Z"
+            # Anjoy's pre-2022 collection (baidu_archive.py): the module its
+            # folder names, the variant its sub-folder names, and the collection.
+            if e.get("Module"):
+                it["module"] = e["Module"]
+            if e.get("Variant"):
+                it["variant"] = e["Variant"]
+            if e.get("Collection"):
+                it["collection"] = e["Collection"]
             out.append(it)
     return out
 

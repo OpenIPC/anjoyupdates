@@ -14,6 +14,7 @@ and tells openipc.org's board catalogue which builds exist for which module.
 | [`archive/index.json`](archive/index.json) | `r<RID>` → the archived build: version, release date, file name, MD5, sha256, size and `asset_url` on this repo's `firmware-archive` release. |
 | [`refresh.py`](refresh.py) | Refreshes `items.json`; all-or-nothing. |
 | [`download_firmwares.py`](download_firmwares.py) | Downloads every row not archived yet from Anjoy's Aliyun OSS bucket, checks it against the list's MD5 and size, and uploads it as a release asset. |
+| [`baidu_archive.py`](baidu_archive.py) | Archives Anjoy's collection for its pre-2022 modules, kept on Baidu Pan (see below); run by hand. |
 | [`push_openipc_org.py`](push_openipc_org.py) | Pushes the archive's list to openipc.org over a GitHub OIDC token; no secret. |
 
 ## What a row is
@@ -29,6 +30,16 @@ Anjoy's own notes on its download page, for anyone flashing these:
 - for ordinary camera modules it publishes the bare module's firmware only: a finished camera's maker
   may ship a customised build (AF zoom, PTZ, GB28181), and a module build can remove those functions;
 - upgrading long-used older modules carries a risk of bricking them.
+
+## The pre-2022 modules
+
+Anjoy keeps the firmware for its older modules (MC200E, MC500L, MT200E5 and about thirty more) in a
+Baidu Pan share, https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ (extraction code `1234`), folder
+`旧型号升级固件合集`. Baidu serves files only to a signed-in account, so the collection was downloaded once
+by hand (2026-09-29, 108 files, each the size Baidu lists) and archived with `baidu_archive.py`: entries
+`b<sha256[:12]>` marked `"Collection": "pre-2022"`, with the module and the variant its folders name, the
+variant in Chinese, English and Russian. Anjoy's note on that collection: it holds the non-customised
+bullet-camera firmware only, and upgrading long-used older modules can brick them.
 
 ## Automation
 

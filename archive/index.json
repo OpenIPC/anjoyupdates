@@ -1,4 +1,2892 @@
 {
+  "b01e75dd1bd78": {
+    "APPName": "public",
+    "BaiduPath": "MC200J8/暖光（软光敏）_自动聚焦/firmware_MC200J8_V0_AF-H5_V3.0.2.1_STARC_202005111150.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC200J8_V0_AF-H5",
+    "Module": "MC200J8",
+    "Solution": "",
+    "Variant": {
+      "en": "warm light (software light sensing), autofocus",
+      "ru": "тёплый свет (программный датчик освещённости), автофокус",
+      "zh": "暖光（软光敏）_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:48:19Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC200J8__01e75dd1__firmware_MC200J8_V0_AF-H5_V3.0.2.1_STARC_202005111150.bin",
+        "file": "firmware_MC200J8_V0_AF-H5_V3.0.2.1_STARC_202005111150.bin",
+        "md5": "d6b75c35944c75c56a11cb59e2f676d3",
+        "release_date": "20200511",
+        "sha256": "01e75dd1bd7863f8ac41c8f7f7cef72be280d69fea6d8cb2a9639b7bbb207be8",
+        "size": 7724624,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b040e262945be": {
+    "APPName": "public",
+    "BaiduPath": "MC200E/普通红外/firmware_MC200E_V0-H5_V3.0.2.1_202005301750.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC200E_V0-H5",
+    "Module": "MC200E",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR",
+      "ru": "обычная ИК-подсветка",
+      "zh": "普通红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:47:36Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC200E__040e2629__firmware_MC200E_V0-H5_V3.0.2.1_202005301750.bin",
+        "file": "firmware_MC200E_V0-H5_V3.0.2.1_202005301750.bin",
+        "md5": "cfc4a584b1dfdf4489d92a9997875d45",
+        "release_date": "20200530",
+        "sha256": "040e262945be63f085defc78d4b8bcbc6c5a2f170a6741067f8d6de7e4e4a025",
+        "size": 7531136,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b04f95d30e8bf": {
+    "APPName": "public",
+    "BaiduPath": "MCF50/暖光（软光敏）_自动聚焦/firmware_MCF50_V0_AF-H5_V3.0.2.3_STARC_202008070948.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MCF50_V0_AF-H5",
+    "Module": "MCF50",
+    "Solution": "",
+    "Variant": {
+      "en": "warm light (software light sensing), autofocus",
+      "ru": "тёплый свет (программный датчик освещённости), автофокус",
+      "zh": "暖光（软光敏）_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:50:49Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCF50__04f95d30__firmware_MCF50_V0_AF-H5_V3.0.2.3_STARC_202008070948.bin",
+        "file": "firmware_MCF50_V0_AF-H5_V3.0.2.3_STARC_202008070948.bin",
+        "md5": "3f77313b25e8508f1f2bd068c8fa7793",
+        "release_date": "20200807",
+        "sha256": "04f95d30e8bf0deb1ab29e45d21ecbcfe52861ca34e2ff1455cd34570ad9a75a",
+        "size": 8863692,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.3"
+      }
+    ]
+  },
+  "b050d117fee52": {
+    "APPName": "public",
+    "BaiduPath": "MC200J8/暖光（软光敏）/firmware_MC200J8_V0-H5_V3.0.2.2_STARC_202007020939.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC200J8_V0-H5",
+    "Module": "MC200J8",
+    "Solution": "",
+    "Variant": {
+      "en": "warm light (software light sensing)",
+      "ru": "тёплый свет (программный датчик освещённости)",
+      "zh": "暖光（软光敏）"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:48:16Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC200J8__050d117f__firmware_MC200J8_V0-H5_V3.0.2.2_STARC_202007020939.bin",
+        "file": "firmware_MC200J8_V0-H5_V3.0.2.2_STARC_202007020939.bin",
+        "md5": "844a4cef512332dffe49b931e25e7d0d",
+        "release_date": "20200702",
+        "sha256": "050d117fee52dd2a939fe4290097dc046c21d4f5cb5f63ad183b571c3acb77da",
+        "size": 7728720,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.2"
+      }
+    ]
+  },
+  "b067a02cbaba3": {
+    "APPName": "public",
+    "BaiduPath": "MC300E10.3/软光敏红外/firmware_MC300E10_V0-TAOS-H5_3MP_V3.0.2.1_STARIR_MC300E10.3_V0_202005151050.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC300E10_V0-TAOS-H5_3MP",
+    "Module": "MC300E10.3",
+    "Solution": "",
+    "Variant": {
+      "en": "IR with software light sensing",
+      "ru": "ИК-подсветка с программным датчиком освещённости",
+      "zh": "软光敏红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:48:26Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC300E10.3__067a02cb__firmware_MC300E10_V0-TAOS-H5_3MP_V3.0.2.1_STARIR_MC300E10.3_V0_202005151050.bin",
+        "file": "firmware_MC300E10_V0-TAOS-H5_3MP_V3.0.2.1_STARIR_MC300E10.3_V0_202005151050.bin",
+        "md5": "db97ec3e548a8b70fdcf69bfaf6e1a85",
+        "release_date": "20200515",
+        "sha256": "067a02cbaba304944c23041cf6c61a996882fdd3d39764311a9273b9810680b0",
+        "size": 7690900,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b0788e388b506": {
+    "APPName": "public",
+    "BaiduPath": "MCJ10/暖光（软光敏）_自动聚焦/firmware_MCJ10_V0_AF_V3.0.2.1_STARC_202005261037.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MCJ10_V0_AF",
+    "Module": "MCJ10",
+    "Solution": "",
+    "Variant": {
+      "en": "warm light (software light sensing), autofocus",
+      "ru": "тёплый свет (программный датчик освещённости), автофокус",
+      "zh": "暖光（软光敏）_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:51:05Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCJ10__0788e388__firmware_MCJ10_V0_AF_V3.0.2.1_STARC_202005261037.bin",
+        "file": "firmware_MCJ10_V0_AF_V3.0.2.1_STARC_202005261037.bin",
+        "md5": "408f61ea013bc187ae19d7dc4af3efb3",
+        "release_date": "20200526",
+        "sha256": "0788e388b50661e2f590593db2880115278cd2cd3d274d06ba7447e5149b6703",
+        "size": 7346180,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b085351a0603c": {
+    "APPName": "public",
+    "BaiduPath": "MC500N/普通红外_自动聚焦/firmware_MC500N_V0_AF-H5_V3.0.2.2_202007020940.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC500N_V0_AF-H5",
+    "Module": "MC500N",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR, autofocus",
+      "ru": "обычная ИК-подсветка, автофокус",
+      "zh": "普通红外_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:49:07Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC500N__085351a0__firmware_MC500N_V0_AF-H5_V3.0.2.2_202007020940.bin",
+        "file": "firmware_MC500N_V0_AF-H5_V3.0.2.2_202007020940.bin",
+        "md5": "97d1c035f8b17a0c2ef77e7e8df86e4d",
+        "release_date": "20200702",
+        "sha256": "085351a0603cc928189dbddbde61942e6e5e054a19cdd8e16f9a88e5ec5c0468",
+        "size": 13300088,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.2"
+      }
+    ]
+  },
+  "b088b81ca8e28": {
+    "APPName": "public",
+    "BaiduPath": "MCJ10/普通红外/firmware_MCJ10_V0_V3.0.2.1_202005261054.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MCJ10_V0",
+    "Module": "MCJ10",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR",
+      "ru": "обычная ИК-подсветка",
+      "zh": "普通红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:50:55Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCJ10__088b81ca__firmware_MCJ10_V0_V3.0.2.1_202005261054.bin",
+        "file": "firmware_MCJ10_V0_V3.0.2.1_202005261054.bin",
+        "md5": "a5f1ac637b53abd3526aa8e79b9fd948",
+        "release_date": "20200526",
+        "sha256": "088b81ca8e28ce157fa133507abaf8a70d7b510feb1b4b75e3bef9268b9871a1",
+        "size": 7346180,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b09358cce1cf3": {
+    "APPName": "public",
+    "BaiduPath": "MC200J8/暖光（软光敏）/firmware_MC200J8_V0-H5_V3.0.2.1_STARC_202005111151.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC200J8_V0-H5",
+    "Module": "MC200J8",
+    "Solution": "",
+    "Variant": {
+      "en": "warm light (software light sensing)",
+      "ru": "тёплый свет (программный датчик освещённости)",
+      "zh": "暖光（软光敏）"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:48:14Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC200J8__09358cce__firmware_MC200J8_V0-H5_V3.0.2.1_STARC_202005111151.bin",
+        "file": "firmware_MC200J8_V0-H5_V3.0.2.1_STARC_202005111151.bin",
+        "md5": "5b2031fe6d34a13860f8474d0c4b1016",
+        "release_date": "20200511",
+        "sha256": "09358cce1cf317e38e52972b4ad79e1230cbbb5fd9897db0ab72385576240536",
+        "size": 7724624,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b0e9b788acb6e": {
+    "APPName": "public",
+    "BaiduPath": "MCE25/普通红外_自动聚焦/firmware_MC300E25_V0_AF_V3.0.2.2_202007020930.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC300E25_V0_AF",
+    "Module": "MCE25",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR, autofocus",
+      "ru": "обычная ИК-подсветка, автофокус",
+      "zh": "普通红外_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:50:20Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCE25__0e9b788a__firmware_MC300E25_V0_AF_V3.0.2.2_202007020930.bin",
+        "file": "firmware_MC300E25_V0_AF_V3.0.2.2_202007020930.bin",
+        "md5": "1533e7ba9c13ac3bc27346cb40033a48",
+        "release_date": "20200702",
+        "sha256": "0e9b788acb6e43d369abdd4786c601c29be1cfd418660ddfdc166fbd3a656851",
+        "size": 7351888,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.2"
+      }
+    ]
+  },
+  "b1484a81a52c6": {
+    "APPName": "public",
+    "BaiduPath": "MC800N/普通红外_自动聚焦/firmware_MC800N_V0_AF-H5_V3.0.2.2_202007020941.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC800N_V0_AF-H5",
+    "Module": "MC800N",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR, autofocus",
+      "ru": "обычная ИК-подсветка, автофокус",
+      "zh": "普通红外_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:49:34Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC800N__1484a81a__firmware_MC800N_V0_AF-H5_V3.0.2.2_202007020941.bin",
+        "file": "firmware_MC800N_V0_AF-H5_V3.0.2.2_202007020941.bin",
+        "md5": "27820c17ada70f8571d2641b40ac9c11",
+        "release_date": "20200702",
+        "sha256": "1484a81a52c6c6277b6e955ea8a4eaf1bc6df684186acec135758ff9ca5cbac3",
+        "size": 13300088,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.2"
+      }
+    ]
+  },
+  "b17f0b66b7699": {
+    "APPName": "public",
+    "BaiduPath": "MCE12/暖光（软光敏）/firmware_MC300E12.5_V0-H5_V3.0.2.1_STARC_202005111149.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC300E12.5_V0-H5",
+    "Module": "MCE12",
+    "Solution": "",
+    "Variant": {
+      "en": "warm light (software light sensing)",
+      "ru": "тёплый свет (программный датчик освещённости)",
+      "zh": "暖光（软光敏）"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:49:53Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCE12__17f0b66b__firmware_MC300E12.5_V0-H5_V3.0.2.1_STARC_202005111149.bin",
+        "file": "firmware_MC300E12.5_V0-H5_V3.0.2.1_STARC_202005111149.bin",
+        "md5": "d7ef17352cfefe774ae7e29100107fc9",
+        "release_date": "20200511",
+        "sha256": "17f0b66b7699ad83173dc54ce2f6fc0c0cd723e45db5be8d11661b4da4406c2e",
+        "size": 7732816,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b1bf2046c68a8": {
+    "APPName": "public",
+    "BaiduPath": "MC200J8/普通红外/firmware_MC200J8_V0-H5_V3.0.2.2_202007020932.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC200J8_V0-H5",
+    "Module": "MC200J8",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR",
+      "ru": "обычная ИК-подсветка",
+      "zh": "普通红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:48:08Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC200J8__1bf2046c__firmware_MC200J8_V0-H5_V3.0.2.2_202007020932.bin",
+        "file": "firmware_MC200J8_V0-H5_V3.0.2.2_202007020932.bin",
+        "md5": "b5c0d13eaa4ee2b2a2f3d576675ab2e1",
+        "release_date": "20200702",
+        "sha256": "1bf2046c68a8ab6340e4e0cee92151e3b885e156caf3e0ef0f87e1c4798c0f7c",
+        "size": 7728720,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.2"
+      }
+    ]
+  },
+  "b1eae99fde3cf": {
+    "APPName": "public",
+    "BaiduPath": "MCE12/双光源枪机/firmware_MC300E12.5_V0_V3.0.2.1_LIGHT_202005141714.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC300E12.5_V0",
+    "Module": "MCE12",
+    "Solution": "",
+    "Variant": {
+      "en": "dual light, bullet camera",
+      "ru": "двойная подсветка, цилиндрическая камера",
+      "zh": "双光源枪机"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:49:39Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCE12__1eae99fd__firmware_MC300E12.5_V0_V3.0.2.1_LIGHT_202005141714.bin",
+        "file": "firmware_MC300E12.5_V0_V3.0.2.1_LIGHT_202005141714.bin",
+        "md5": "8f4115fde0a633f793a28df9c7cbe8b0",
+        "release_date": "20200514",
+        "sha256": "1eae99fde3cfdfad512fc572edf7e75c386346daaf969e6bd8a2c8cb0459e7f3",
+        "size": 7717164,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b1fae610727d2": {
+    "APPName": "public",
+    "BaiduPath": "MC400L/普通红外_自动聚焦/firmware_MC400L_V0_AF-TAOS-H5_V3.0.2.1_202005151030.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC400L_V0_AF-TAOS-H5",
+    "Module": "MC400L",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR, autofocus",
+      "ru": "обычная ИК-подсветка, автофокус",
+      "zh": "普通红外_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:48:37Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC400L__1fae6107__firmware_MC400L_V0_AF-TAOS-H5_V3.0.2.1_202005151030.bin",
+        "file": "firmware_MC400L_V0_AF-TAOS-H5_V3.0.2.1_202005151030.bin",
+        "md5": "272d58987bffc145e8f0b4582e79bd8d",
+        "release_date": "20200515",
+        "sha256": "1fae610727d2eefb194cbc4c5351f4034d8221157a659ba1cc1e423b7df4714a",
+        "size": 10099056,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b2086dd94f33e": {
+    "APPName": "public",
+    "BaiduPath": "MC200J6/暖光（软光敏）_自动聚焦/firmware_MC200J6_V0_AF-H5_V3.0.2.2_STARC_202007020935.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC200J6_V0_AF-H5",
+    "Module": "MC200J6",
+    "Solution": "",
+    "Variant": {
+      "en": "warm light (software light sensing), autofocus",
+      "ru": "тёплый свет (программный датчик освещённости), автофокус",
+      "zh": "暖光（软光敏）_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:48:04Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC200J6__2086dd94__firmware_MC200J6_V0_AF-H5_V3.0.2.2_STARC_202007020935.bin",
+        "file": "firmware_MC200J6_V0_AF-H5_V3.0.2.2_STARC_202007020935.bin",
+        "md5": "22833cb94debbe2f7190c8066c2f4766",
+        "release_date": "20200702",
+        "sha256": "2086dd94f33e7c4fc0a862d1efba1c67b88375d47638c13ee6bf8b6ef0a144ed",
+        "size": 7728720,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.2"
+      }
+    ]
+  },
+  "b2472d82a9f16": {
+    "APPName": "public",
+    "BaiduPath": "MSJ10/firmware_MSJ10_V0_AF_V3.0.2.3_STARC_202008070942.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MSJ10_V0_AF",
+    "Module": "MSJ10",
+    "Solution": "",
+    "Variant": null,
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:51:19Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MSJ10__2472d82a__firmware_MSJ10_V0_AF_V3.0.2.3_STARC_202008070942.bin",
+        "file": "firmware_MSJ10_V0_AF_V3.0.2.3_STARC_202008070942.bin",
+        "md5": "3395e9b84fbb7419514b8d7a3dcb2ca1",
+        "release_date": "20200807",
+        "sha256": "2472d82a9f1654bcf96d3d8094e6fb9ac95ccb1829c58079393b2ffcc441d45c",
+        "size": 6650820,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.3"
+      }
+    ]
+  },
+  "b2614f764d230": {
+    "APPName": "public",
+    "BaiduPath": "MCE26/普通红外/firmware_MCE26_V0-H5_V3.0.2.2_202007020931.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MCE26_V0-H5",
+    "Module": "MCE26",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR",
+      "ru": "обычная ИК-подсветка",
+      "zh": "普通红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:50:28Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCE26__2614f764__firmware_MCE26_V0-H5_V3.0.2.2_202007020931.bin",
+        "file": "firmware_MCE26_V0-H5_V3.0.2.2_202007020931.bin",
+        "md5": "70689df4d3584066857be8f2bb1e9562",
+        "release_date": "20200702",
+        "sha256": "2614f764d230dffe9e0ae36c16a3fbb2abb06d1540833b6646378ea7b70ef8ab",
+        "size": 7634512,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.2"
+      }
+    ]
+  },
+  "b26f920833404": {
+    "APPName": "public",
+    "BaiduPath": "MC200J6/普通红外_自动聚焦/firmware_MC200J6_V0_AF-H5_V3.0.2.1_202005111140.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC200J6_V0_AF-H5",
+    "Module": "MC200J6",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR, autofocus",
+      "ru": "обычная ИК-подсветка, автофокус",
+      "zh": "普通红外_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:47:54Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC200J6__26f92083__firmware_MC200J6_V0_AF-H5_V3.0.2.1_202005111140.bin",
+        "file": "firmware_MC200J6_V0_AF-H5_V3.0.2.1_202005111140.bin",
+        "md5": "b573ee9cd23eff90bb1f6925e4bf5445",
+        "release_date": "20200511",
+        "sha256": "26f92083340497746b90afa769e11dc73a310f645519fd5f3896607f6aaaee44",
+        "size": 7724624,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b26fa3e78ac83": {
+    "APPName": "public",
+    "BaiduPath": "MC200E3.5/firmware_MC200E3_V0-TAOS-H5_3MP_V3.0.2.1_MC200E3.5_V0_202005160943.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC200E3_V0-TAOS-H5_3MP",
+    "Module": "MC200E3.5",
+    "Solution": "",
+    "Variant": null,
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:47:42Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC200E3.5__26fa3e78__firmware_MC200E3_V0-TAOS-H5_3MP_V3.0.2.1_MC200E3.5_V0_202005160943.bin",
+        "file": "firmware_MC200E3_V0-TAOS-H5_3MP_V3.0.2.1_MC200E3.5_V0_202005160943.bin",
+        "md5": "d2fca0f378e9d6e50c81afad9269b0d1",
+        "release_date": "20200516",
+        "sha256": "26fa3e78ac8334aea5193a159fbb02ca57ff32768598d1818acd54cb5fa707e9",
+        "size": 7669800,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b276379c802e8": {
+    "APPName": "public",
+    "BaiduPath": "MCF12/暖光（软光敏）_自动聚焦/firmware_MCF12_V0_AF_V3.0.2.3_STARC_202008070942.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MCF12_V0_AF",
+    "Module": "MCF12",
+    "Solution": "",
+    "Variant": {
+      "en": "warm light (software light sensing), autofocus",
+      "ru": "тёплый свет (программный датчик освещённости), автофокус",
+      "zh": "暖光（软光敏）_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:50:41Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCF12__276379c8__firmware_MCF12_V0_AF_V3.0.2.3_STARC_202008070942.bin",
+        "file": "firmware_MCF12_V0_AF_V3.0.2.3_STARC_202008070942.bin",
+        "md5": "a5d10024dfc279b662966f10335c2d1e",
+        "release_date": "20200807",
+        "sha256": "276379c802e8abe0c25e893f2270d5d4290ddf9db85fbd9fabb4e27653932d16",
+        "size": 6670340,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.3"
+      }
+    ]
+  },
+  "b2878c1781f8f": {
+    "APPName": "public",
+    "BaiduPath": "MC500L5/暖光（软光敏）_自动聚焦/firmware_MC500L5_V0_AF-H5_V3.0.2.1_STARC_202005121543.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC500L5_V0_AF-H5",
+    "Module": "MC500L5",
+    "Solution": "",
+    "Variant": {
+      "en": "warm light (software light sensing), autofocus",
+      "ru": "тёплый свет (программный датчик освещённости), автофокус",
+      "zh": "暖光（软光敏）_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:48:58Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC500L5__2878c178__firmware_MC500L5_V0_AF-H5_V3.0.2.1_STARC_202005121543.bin",
+        "file": "firmware_MC500L5_V0_AF-H5_V3.0.2.1_STARC_202005121543.bin",
+        "md5": "fc12524496093400e046b2dd8dcf07c6",
+        "release_date": "20200512",
+        "sha256": "2878c1781f8faef6969acc965e085b521ac806c9512ad7f1610da2666b80dacf",
+        "size": 10062364,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b295fc83f518f": {
+    "APPName": "public",
+    "BaiduPath": "MC800L/普通红外/firmware_MC800L_V0-H5_V3.0.2.1_202005111219.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC800L_V0-H5",
+    "Module": "MC800L",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR",
+      "ru": "обычная ИК-подсветка",
+      "zh": "普通红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:49:18Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC800L__295fc83f__firmware_MC800L_V0-H5_V3.0.2.1_202005111219.bin",
+        "file": "firmware_MC800L_V0-H5_V3.0.2.1_202005111219.bin",
+        "md5": "29436ad5f50236ba9d78c2601b991383",
+        "release_date": "20200511",
+        "sha256": "295fc83f518f77ba17e0ee908524e1d49ea90ba008e434945b099f8e8c2f3fdc",
+        "size": 13287800,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b2c5c7457f2c1": {
+    "APPName": "public",
+    "BaiduPath": "MC500N/普通红外/firmware_MC500N_V0-H5_V3.0.2.2_202007020940.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC500N_V0-H5",
+    "Module": "MC500N",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR",
+      "ru": "обычная ИК-подсветка",
+      "zh": "普通红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:49:02Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC500N__2c5c7457__firmware_MC500N_V0-H5_V3.0.2.2_202007020940.bin",
+        "file": "firmware_MC500N_V0-H5_V3.0.2.2_202007020940.bin",
+        "md5": "4ef9c9ccdbff7ecd6305daa76e100ce0",
+        "release_date": "20200702",
+        "sha256": "2c5c7457f2c117a7e3a7313e29cc159f3fd80db53ba4e1ed2c87234b0b083cc3",
+        "size": 13300088,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.2"
+      }
+    ]
+  },
+  "b2ca7d36c8346": {
+    "APPName": "public",
+    "BaiduPath": "MCE26/普通红外/firmware_MCE26_V0-H5_V3.0.2.1_202005111144.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MCE26_V0-H5",
+    "Module": "MCE26",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR",
+      "ru": "обычная ИК-подсветка",
+      "zh": "普通红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:50:26Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCE26__2ca7d36c__firmware_MCE26_V0-H5_V3.0.2.1_202005111144.bin",
+        "file": "firmware_MCE26_V0-H5_V3.0.2.1_202005111144.bin",
+        "md5": "121704e90131b7a5325e39a8000ba1f1",
+        "release_date": "20200511",
+        "sha256": "2ca7d36c8346f84bc836b840c673179ffd4e6c92962cfb8803e913377d805abe",
+        "size": 7769680,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b3b9d7505821b": {
+    "APPName": "public",
+    "BaiduPath": "MC800N2/软光敏红外/firmware_MC800N2_V0-H5_V3.0.2.1_STARIR_202006300953.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC800N2_V0-H5",
+    "Module": "MC800N2",
+    "Solution": "",
+    "Variant": {
+      "en": "IR with software light sensing",
+      "ru": "ИК-подсветка с программным датчиком освещённости",
+      "zh": "软光敏红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:49:37Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC800N2__3b9d7505__firmware_MC800N2_V0-H5_V3.0.2.1_STARIR_202006300953.bin",
+        "file": "firmware_MC800N2_V0-H5_V3.0.2.1_STARIR_202006300953.bin",
+        "md5": "84771039335affba0adabd18e910d780",
+        "release_date": "20200630",
+        "sha256": "3b9d7505821b7ba4da4cdd9f1e45f96b1c04ea5f5bc0680de12f8e4cf007f86a",
+        "size": 13035704,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b3f3f6d368c7e": {
+    "APPName": "public",
+    "BaiduPath": "MCF10/firmware_MCF10_V0_V3.0.2.5_STARIR_202009231742.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MCF10_V0",
+    "Module": "MCF10",
+    "Solution": "",
+    "Variant": null,
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:50:34Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCF10__3f3f6d36__firmware_MCF10_V0_V3.0.2.5_STARIR_202009231742.bin",
+        "file": "firmware_MCF10_V0_V3.0.2.5_STARIR_202009231742.bin",
+        "md5": "2a511c51bfd373b7f2c08557216a0063",
+        "release_date": "20200923",
+        "sha256": "3f3f6d368c7e53d3406d82c7a4c9ef9eed7ed81c1c859717bdf9cfc2cc102676",
+        "size": 6732740,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.5"
+      }
+    ]
+  },
+  "b3fa53ebc0941": {
+    "APPName": "public",
+    "BaiduPath": "MC200E6.5/暖光（软光敏）/firmware_MC200E6_V0-H5_3MP_V3.0.2.1_STARC_MC200E6.5_V0_202005301239.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC200E6_V0-H5_3MP",
+    "Module": "MC200E6.5",
+    "Solution": "",
+    "Variant": {
+      "en": "warm light (software light sensing)",
+      "ru": "тёплый свет (программный датчик освещённости)",
+      "zh": "暖光（软光敏）"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:47:46Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC200E6.5__3fa53ebc__firmware_MC200E6_V0-H5_3MP_V3.0.2.1_STARC_MC200E6.5_V0_202005301239.bin",
+        "file": "firmware_MC200E6_V0-H5_3MP_V3.0.2.1_STARC_MC200E6.5_V0_202005301239.bin",
+        "md5": "fc2e403a28c036e53af2536c975bc3bd",
+        "release_date": "20200530",
+        "sha256": "3fa53ebc094122889c10840c0769627285baefdb6a2da90a2f39951b2cd644ab",
+        "size": 7764628,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b4293bd903045": {
+    "APPName": "public",
+    "BaiduPath": "MC500L/普通红外/firmware_MC500L_V0-TAOS-H5_V3.0.2.1_202005141853.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC500L_V0-TAOS-H5",
+    "Module": "MC500L",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR",
+      "ru": "обычная ИК-подсветка",
+      "zh": "普通红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:48:42Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC500L__4293bd90__firmware_MC500L_V0-TAOS-H5_V3.0.2.1_202005141853.bin",
+        "file": "firmware_MC500L_V0-TAOS-H5_V3.0.2.1_202005141853.bin",
+        "md5": "3712de78b201d1d9a35885e0283640f6",
+        "release_date": "20200514",
+        "sha256": "4293bd9030452a63b1ab37d9d36c852a9fef06d3c29934c917e79c9cf600ff47",
+        "size": 10099228,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b4356689fcaa5": {
+    "APPName": "public",
+    "BaiduPath": "MCE12/普通红外/firmware_MC300E12.5_V0-H5_V3.0.2.2_202007020929.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC300E12.5_V0-H5",
+    "Module": "MCE12",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR",
+      "ru": "обычная ИК-подсветка",
+      "zh": "普通红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:49:47Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCE12__4356689f__firmware_MC300E12.5_V0-H5_V3.0.2.2_202007020929.bin",
+        "file": "firmware_MC300E12.5_V0-H5_V3.0.2.2_202007020929.bin",
+        "md5": "f482699a3b9b418bb739b4bc4a0bd648",
+        "release_date": "20200702",
+        "sha256": "4356689fcaa597b03c47d2efa3a3cc4ca9c631da6dcf1fa1eb1a3758c0cb74eb",
+        "size": 7736912,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.2"
+      }
+    ]
+  },
+  "b450f8061fb5f": {
+    "APPName": "public",
+    "BaiduPath": "MC800E/普通红外_自动聚焦/firmware_MC800E_V0_AF-H5_V3.0.2.2_202007020939.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC800E_V0_AF-H5",
+    "Module": "MC800E",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR, autofocus",
+      "ru": "обычная ИК-подсветка, автофокус",
+      "zh": "普通红外_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:49:16Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC800E__450f8061__firmware_MC800E_V0_AF-H5_V3.0.2.2_202007020939.bin",
+        "file": "firmware_MC800E_V0_AF-H5_V3.0.2.2_202007020939.bin",
+        "md5": "c5aa1b2062f4ab82239ece4340b020fd",
+        "release_date": "20200702",
+        "sha256": "450f8061fb5fa92257cd25711eb9420f5e380a63ba781a8c247996d39c9c267c",
+        "size": 13295992,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.2"
+      }
+    ]
+  },
+  "b4626bfaf2c85": {
+    "APPName": "public",
+    "BaiduPath": "MC500L5/暖光（软光敏）/firmware_MC500L5_V0-H5_V3.0.2.1_STARC_202005121611.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC500L5_V0-H5",
+    "Module": "MC500L5",
+    "Solution": "",
+    "Variant": {
+      "en": "warm light (software light sensing)",
+      "ru": "тёплый свет (программный датчик освещённости)",
+      "zh": "暖光（软光敏）"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:48:55Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC500L5__4626bfaf__firmware_MC500L5_V0-H5_V3.0.2.1_STARC_202005121611.bin",
+        "file": "firmware_MC500L5_V0-H5_V3.0.2.1_STARC_202005121611.bin",
+        "md5": "182f3b147a5560843f873c3bc475433f",
+        "release_date": "20200512",
+        "sha256": "4626bfaf2c855b80f40c624ccc04af93d2d9481084cef462cffacfc0eb4a44c7",
+        "size": 10062364,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b4ae8fc70f5de": {
+    "APPName": "public",
+    "BaiduPath": "MCJ10/暖光（软光敏)_自动聚焦/firmware_MCJ10_V0_AF_V3.0.2.3_STARC_202008070941.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MCJ10_V0_AF",
+    "Module": "MCJ10",
+    "Solution": "",
+    "Variant": {
+      "en": "warm light (software light sensing), autofocus",
+      "ru": "тёплый свет (программный датчик освещённости), автофокус",
+      "zh": "暖光（软光敏)_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:50:59Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCJ10__4ae8fc70__firmware_MCJ10_V0_AF_V3.0.2.3_STARC_202008070941.bin",
+        "file": "firmware_MCJ10_V0_AF_V3.0.2.3_STARC_202008070941.bin",
+        "md5": "a87c78f5e65500d4ab6d05a7109de310",
+        "release_date": "20200807",
+        "sha256": "4ae8fc70f5de069e783c32c8bc09bc4d5c9950c146cab91bb6fe87fd54e4edaa",
+        "size": 6718780,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.3"
+      }
+    ]
+  },
+  "b4c9d0172d4b5": {
+    "APPName": "public",
+    "BaiduPath": "MCE15/普通红外/firmware_MCE15_V0-H5_V3.0.2.1_202005111143.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MCE15_V0-H5",
+    "Module": "MCE15",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR",
+      "ru": "обычная ИК-подсветка",
+      "zh": "普通红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:50:01Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCE15__4c9d0172__firmware_MCE15_V0-H5_V3.0.2.1_202005111143.bin",
+        "file": "firmware_MCE15_V0-H5_V3.0.2.1_202005111143.bin",
+        "md5": "133aeacf1dfe30d1c1b1c9378977f565",
+        "release_date": "20200511",
+        "sha256": "4c9d0172d4b55913e2afe59587a612d465194f8498fb75e21bfc6f3ac8f9ec95",
+        "size": 7732816,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b4d6606c4f354": {
+    "APPName": "public",
+    "BaiduPath": "MCE12/暖光球机/firmware_MC300E12.5_V0_AF_V3.0.2.1_STARCDOOM_202005151148.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC300E12.5_V0_AF",
+    "Module": "MCE12",
+    "Solution": "",
+    "Variant": {
+      "en": "warm light, dome camera",
+      "ru": "тёплый свет, купольная камера",
+      "zh": "暖光球机"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:49:51Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCE12__4d6606c4__firmware_MC300E12.5_V0_AF_V3.0.2.1_STARCDOOM_202005151148.bin",
+        "file": "firmware_MC300E12.5_V0_AF_V3.0.2.1_STARCDOOM_202005151148.bin",
+        "md5": "9a0825e0744a4e47818528ebcd03ff2d",
+        "release_date": "20200515",
+        "sha256": "4d6606c4f354cd60096dd6987944a111e4dd9f5383649f094ee2d97c45a0e774",
+        "size": 7716432,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b4e486a6d1b71": {
+    "APPName": "public",
+    "BaiduPath": "MCF25/firmware_MCF25_V0_V3.0.2.5_LIGHT_202009241549.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MCF25_V0",
+    "Module": "MCF25",
+    "Solution": "",
+    "Variant": null,
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:50:43Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCF25__4e486a6d__firmware_MCF25_V0_V3.0.2.5_LIGHT_202009241549.bin",
+        "file": "firmware_MCF25_V0_V3.0.2.5_LIGHT_202009241549.bin",
+        "md5": "61507365769c5af60d7980edbd7bf01e",
+        "release_date": "20200924",
+        "sha256": "4e486a6d1b71c39d68e49a2eb12baafc7c353e581b25bced53459920e2d67b9f",
+        "size": 7301608,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.5"
+      }
+    ]
+  },
+  "b4f922e494f33": {
+    "APPName": "public",
+    "BaiduPath": "MCE16/普通红外/firmware_MCE16_V0-H5_V3.0.2.2_202007020931.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MCE16_V0-H5",
+    "Module": "MCE16",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR",
+      "ru": "обычная ИК-подсветка",
+      "zh": "普通红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:50:08Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCE16__4f922e49__firmware_MCE16_V0-H5_V3.0.2.2_202007020931.bin",
+        "file": "firmware_MCE16_V0-H5_V3.0.2.2_202007020931.bin",
+        "md5": "097bfc862cb80d2ced94d9e9549d8f6e",
+        "release_date": "20200702",
+        "sha256": "4f922e494f331f48291862417a3d7c355bd8e04ab48f7efbe5a716b410ee4ac5",
+        "size": 7736912,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.2"
+      }
+    ]
+  },
+  "b5019e23fb92c": {
+    "APPName": "public",
+    "BaiduPath": "MCE12/暖光（软光敏）_自动聚焦/firmware_MC300E12.5_V0_AF-H5_V3.0.2.2_STARC_202007020937.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC300E12.5_V0_AF-H5",
+    "Module": "MCE12",
+    "Solution": "",
+    "Variant": {
+      "en": "warm light (software light sensing), autofocus",
+      "ru": "тёплый свет (программный датчик освещённости), автофокус",
+      "zh": "暖光（软光敏）_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:49:59Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCE12__5019e23f__firmware_MC300E12.5_V0_AF-H5_V3.0.2.2_STARC_202007020937.bin",
+        "file": "firmware_MC300E12.5_V0_AF-H5_V3.0.2.2_STARC_202007020937.bin",
+        "md5": "ec1e523956167d2789539872453104d3",
+        "release_date": "20200702",
+        "sha256": "5019e23fb92cd83b2573360a08676928e225b7a9808fa8c0627110eb60fceb35",
+        "size": 7736912,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.2"
+      }
+    ]
+  },
+  "b5674f6997b5d": {
+    "APPName": "public",
+    "BaiduPath": "MC500L/普通红外_自动聚焦/firmware_MC500L_V0_AF-TAOS-H5_FTK_V3.0.2.1_202005141854.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC500L_V0_AF-TAOS-H5_FTK",
+    "Module": "MC500L",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR, autofocus",
+      "ru": "обычная ИК-подсветка, автофокус",
+      "zh": "普通红外_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:48:44Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC500L__5674f699__firmware_MC500L_V0_AF-TAOS-H5_FTK_V3.0.2.1_202005141854.bin",
+        "file": "firmware_MC500L_V0_AF-TAOS-H5_FTK_V3.0.2.1_202005141854.bin",
+        "md5": "94fad4ab95286295b1ac0c9868330835",
+        "release_date": "20200514",
+        "sha256": "5674f6997b5ddcd5c53df9ec3650b1853477adf843bad4b2f87bf00bf3484e1b",
+        "size": 10111516,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b56ff99438dca": {
+    "APPName": "public",
+    "BaiduPath": "MCE12/暖光（软光敏）/firmware_MC300E12.5_V0-H5_V3.0.2.2_STARC_202007020936.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC300E12.5_V0-H5",
+    "Module": "MCE12",
+    "Solution": "",
+    "Variant": {
+      "en": "warm light (software light sensing)",
+      "ru": "тёплый свет (программный датчик освещённости)",
+      "zh": "暖光（软光敏）"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:49:55Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCE12__56ff9943__firmware_MC300E12.5_V0-H5_V3.0.2.2_STARC_202007020936.bin",
+        "file": "firmware_MC300E12.5_V0-H5_V3.0.2.2_STARC_202007020936.bin",
+        "md5": "943d7deb9327968c32456b2130fc008b",
+        "release_date": "20200702",
+        "sha256": "56ff99438dca7510dc97c3c65b181f6cc284bd87d2e1408cc406df99cd8e9d0d",
+        "size": 7736912,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.2"
+      }
+    ]
+  },
+  "b5b004c7d6e93": {
+    "APPName": "public",
+    "BaiduPath": "MC200J6/普通红外_自动聚焦/firmware_MC200J6_V0_AF-H5_V3.0.2.2_202007020928.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC200J6_V0_AF-H5",
+    "Module": "MC200J6",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR, autofocus",
+      "ru": "обычная ИК-подсветка, автофокус",
+      "zh": "普通红外_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:47:56Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC200J6__5b004c7d__firmware_MC200J6_V0_AF-H5_V3.0.2.2_202007020928.bin",
+        "file": "firmware_MC200J6_V0_AF-H5_V3.0.2.2_202007020928.bin",
+        "md5": "b93dc841cb9279fde27c0c901e841df5",
+        "release_date": "20200702",
+        "sha256": "5b004c7d6e93f5a60c632e851e21ba4785d7800269732c49440100390be9c36f",
+        "size": 7728720,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.2"
+      }
+    ]
+  },
+  "b5b0cfa5fa664": {
+    "APPName": "public",
+    "BaiduPath": "MC800L/普通红外/firmware_MC800L_V0-H5_V3.0.2.2_202007020937.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC800L_V0-H5",
+    "Module": "MC800L",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR",
+      "ru": "обычная ИК-подсветка",
+      "zh": "普通红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:49:20Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC800L__5b0cfa5f__firmware_MC800L_V0-H5_V3.0.2.2_202007020937.bin",
+        "file": "firmware_MC800L_V0-H5_V3.0.2.2_202007020937.bin",
+        "md5": "33d1ee152a456e9360683098797a896c",
+        "release_date": "20200702",
+        "sha256": "5b0cfa5fa664f0de0e33fb7eb53c5280b3cfc0c5faaf29527a1570041114436a",
+        "size": 13291896,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.2"
+      }
+    ]
+  },
+  "b5f060c497d2a": {
+    "APPName": "public",
+    "BaiduPath": "MCE26/软光敏红外/firmware_MCE26_V0-H5_V3.0.2.2_STARIR_202007021555.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MCE26_V0-H5",
+    "Module": "MCE26",
+    "Solution": "",
+    "Variant": {
+      "en": "IR with software light sensing",
+      "ru": "ИК-подсветка с программным датчиком освещённости",
+      "zh": "软光敏红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:50:32Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCE26__5f060c49__firmware_MCE26_V0-H5_V3.0.2.2_STARIR_202007021555.bin",
+        "file": "firmware_MCE26_V0-H5_V3.0.2.2_STARIR_202007021555.bin",
+        "md5": "bd2ad9692b21600543cc5612cc752b3a",
+        "release_date": "20200702",
+        "sha256": "5f060c497d2adfe1c90f84aa357014f2f7ba686fe33ef1a3e0a531ad794e4a09",
+        "size": 7634512,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.2"
+      }
+    ]
+  },
+  "b63df51d62ea7": {
+    "APPName": "public",
+    "BaiduPath": "MC400L2/普通红外/firmware_MC400L2_V0-H5_V3.0.2.1_202005301128.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC400L2_V0-H5",
+    "Module": "MC400L2",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR",
+      "ru": "обычная ИК-подсветка",
+      "zh": "普通红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:48:40Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC400L2__63df51d6__firmware_MC400L2_V0-H5_V3.0.2.1_202005301128.bin",
+        "file": "firmware_MC400L2_V0-H5_V3.0.2.1_202005301128.bin",
+        "md5": "42c741e2d331c0d4db32b045bab15522",
+        "release_date": "20200530",
+        "sha256": "63df51d62ea78d9e4d964301d0b88bf5748f6672d0941cbfc6b806f22b03fc03",
+        "size": 10022980,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b69a553cdfc54": {
+    "APPName": "public",
+    "BaiduPath": "MC800N/普通红外/firmware_MC800N_V0-H5_V3.0.2.1_202005111221.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC800N_V0-H5",
+    "Module": "MC800N",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR",
+      "ru": "обычная ИК-подсветка",
+      "zh": "普通红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:49:28Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC800N__69a553cd__firmware_MC800N_V0-H5_V3.0.2.1_202005111221.bin",
+        "file": "firmware_MC800N_V0-H5_V3.0.2.1_202005111221.bin",
+        "md5": "9e626d9eb3334357e5a9ffc626e897b4",
+        "release_date": "20200511",
+        "sha256": "69a553cdfc542d24f8ae028f51c3365d3cf5d27215a90994081940b788ce2781",
+        "size": 13295992,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b6b104a6f4a6c": {
+    "APPName": "public",
+    "BaiduPath": "MCE16/普通红外/firmware_MCE16_V0-H5_V3.0.2.1_202005111143.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MCE16_V0-H5",
+    "Module": "MCE16",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR",
+      "ru": "обычная ИК-подсветка",
+      "zh": "普通红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:50:05Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCE16__6b104a6f__firmware_MCE16_V0-H5_V3.0.2.1_202005111143.bin",
+        "file": "firmware_MCE16_V0-H5_V3.0.2.1_202005111143.bin",
+        "md5": "7f97b0c7d2910f8e79ade15a4ca1403a",
+        "release_date": "20200511",
+        "sha256": "6b104a6f4a6cc5939858ed99b1d3c0468a17f22ba3d5c764f882ef34be37234a",
+        "size": 7732816,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b6b8a210117cd": {
+    "APPName": "public",
+    "BaiduPath": "MCE25/软光敏红外/firmware_MC300E25_V0_V3.0.2.2_STARIR_202007020941.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC300E25_V0",
+    "Module": "MCE25",
+    "Solution": "",
+    "Variant": {
+      "en": "IR with software light sensing",
+      "ru": "ИК-подсветка с программным датчиком освещённости",
+      "zh": "软光敏红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:50:24Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCE25__6b8a2101__firmware_MC300E25_V0_V3.0.2.2_STARIR_202007020941.bin",
+        "file": "firmware_MC300E25_V0_V3.0.2.2_STARIR_202007020941.bin",
+        "md5": "e24703ebf07465f19af145f577b32bb1",
+        "release_date": "20200702",
+        "sha256": "6b8a210117cd60bfcafe9250609b2c19ef23340f17b083ffcdbf303917911d80",
+        "size": 7351888,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.2"
+      }
+    ]
+  },
+  "b746c8fca70a5": {
+    "APPName": "public",
+    "BaiduPath": "MC300E10.5/暖光（软光敏）_自动聚焦/firmware_MC300E10_V0_AF-TAOS-H5_3MP_V3.0.2.1_STARC_MC300E10.5_V0_202005151100.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC300E10_V0_AF-TAOS-H5_3MP",
+    "Module": "MC300E10.5",
+    "Solution": "",
+    "Variant": {
+      "en": "warm light (software light sensing), autofocus",
+      "ru": "тёплый свет (программный датчик освещённости), автофокус",
+      "zh": "暖光（软光敏）_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:48:32Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC300E10.5__746c8fca__firmware_MC300E10_V0_AF-TAOS-H5_3MP_V3.0.2.1_STARC_MC300E10.5_V0_202005151100.bin",
+        "file": "firmware_MC300E10_V0_AF-TAOS-H5_3MP_V3.0.2.1_STARC_MC300E10.5_V0_202005151100.bin",
+        "md5": "310201807b3811ebcc6cfec977c80c94",
+        "release_date": "20200515",
+        "sha256": "746c8fca70a57ba2fd632e68fc9479e2e441454161c0d80343f34a0e52f06b04",
+        "size": 7690900,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b770e1f91b2bc": {
+    "APPName": "public",
+    "BaiduPath": "MCF12/暖光（软光敏）/firmware_MCF12_V0_V3.0.2.5_STARC_202009300939.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MCF12_V0",
+    "Module": "MCF12",
+    "Solution": "",
+    "Variant": {
+      "en": "warm light (software light sensing)",
+      "ru": "тёплый свет (программный датчик освещённости)",
+      "zh": "暖光（软光敏）"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:50:39Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCF12__770e1f91__firmware_MCF12_V0_V3.0.2.5_STARC_202009300939.bin",
+        "file": "firmware_MCF12_V0_V3.0.2.5_STARC_202009300939.bin",
+        "md5": "143bd5c762ae518de45a0e417f7cc23f",
+        "release_date": "20200930",
+        "sha256": "770e1f91b2bc9992551773d4b0a38cbdbf090005c2e04346470d8d7de75b24cd",
+        "size": 6735876,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.5"
+      }
+    ]
+  },
+  "b77af5b3a3f04": {
+    "APPName": "public",
+    "BaiduPath": "MCJ10/普通红外_自动聚焦/firmware_MCJ10_V0_AF_V3.0.2.1_202005261054.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MCJ10_V0_AF",
+    "Module": "MCJ10",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR, autofocus",
+      "ru": "обычная ИК-подсветка, автофокус",
+      "zh": "普通红外_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:50:57Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCJ10__77af5b3a__firmware_MCJ10_V0_AF_V3.0.2.1_202005261054.bin",
+        "file": "firmware_MCJ10_V0_AF_V3.0.2.1_202005261054.bin",
+        "md5": "a89fd957ac7f026667029614c5c89439",
+        "release_date": "20200526",
+        "sha256": "77af5b3a3f047cf68e646debb3c10ee19f70d5baa2aea06172e33799ba69333c",
+        "size": 7346180,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b7f4f97b37c84": {
+    "APPName": "public",
+    "BaiduPath": "MC200J8/普通红外_自动聚焦/firmware_MC200J8_V0_AF-H5_V3.0.2.1_202005111146.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC200J8_V0_AF-H5",
+    "Module": "MC200J8",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR, autofocus",
+      "ru": "обычная ИК-подсветка, автофокус",
+      "zh": "普通红外_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:48:10Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC200J8__7f4f97b3__firmware_MC200J8_V0_AF-H5_V3.0.2.1_202005111146.bin",
+        "file": "firmware_MC200J8_V0_AF-H5_V3.0.2.1_202005111146.bin",
+        "md5": "b374005ea2907e2f9b5f4a09344f705e",
+        "release_date": "20200511",
+        "sha256": "7f4f97b37c84c7fcb19e6e1c596a9e32062174ef6913c3748c5e6d98250492bb",
+        "size": 7724624,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b8992f173764f": {
+    "APPName": "public",
+    "BaiduPath": "MCE26/软光敏红外/firmware_MCE26_V0-H5_V3.0.2.1_STARIR_202005111451.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MCE26_V0-H5",
+    "Module": "MCE26",
+    "Solution": "",
+    "Variant": {
+      "en": "IR with software light sensing",
+      "ru": "ИК-подсветка с программным датчиком освещённости",
+      "zh": "软光敏红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:50:30Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCE26__8992f173__firmware_MCE26_V0-H5_V3.0.2.1_STARIR_202005111451.bin",
+        "file": "firmware_MCE26_V0-H5_V3.0.2.1_STARIR_202005111451.bin",
+        "md5": "f16e50e9e9c395da361d0bd2827c273c",
+        "release_date": "20200511",
+        "sha256": "8992f173764fab1da290d7a7383aac4bf07a8dd0ba03ed0b8fba23512908899d",
+        "size": 7769680,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b8b937bfcf3c4": {
+    "APPName": "public",
+    "BaiduPath": "MSF50/双光源_暖光_红外/firmware_MSF50_V0-H5_V3.0.2.5_STARC_202009111434.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MSF50_V0-H5",
+    "Module": "MSF50",
+    "Solution": "",
+    "Variant": {
+      "en": "dual light, warm light, IR",
+      "ru": "двойная подсветка, тёплый свет, ИК-подсветка",
+      "zh": "双光源_暖光_红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:51:15Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MSF50__8b937bfc__firmware_MSF50_V0-H5_V3.0.2.5_STARC_202009111434.bin",
+        "file": "firmware_MSF50_V0-H5_V3.0.2.5_STARC_202009111434.bin",
+        "md5": "3ccbe23dabaa0e71de06354a2dfafb5b",
+        "release_date": "20200911",
+        "sha256": "8b937bfcf3c4617fc2466520f1af6bfa2084f4faea7dfb69c1e5cc40508e8810",
+        "size": 8903600,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.5"
+      }
+    ]
+  },
+  "b8be68a3b9ba8": {
+    "APPName": "public",
+    "BaiduPath": "MC200J2/暖光（软光敏）/firmware_MC200J2_V0-H5_V3.0.2.1_STARC_202005210948.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC200J2_V0-H5",
+    "Module": "MC200J2",
+    "Solution": "",
+    "Variant": {
+      "en": "warm light (software light sensing)",
+      "ru": "тёплый свет (программный датчик освещённости)",
+      "zh": "暖光（软光敏）"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:47:48Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC200J2__8be68a3b__firmware_MC200J2_V0-H5_V3.0.2.1_STARC_202005210948.bin",
+        "file": "firmware_MC200J2_V0-H5_V3.0.2.1_STARC_202005210948.bin",
+        "md5": "dd5d4a0227ac0cf8d8b92330f9e37807",
+        "release_date": "20200521",
+        "sha256": "8be68a3b9ba8a4382ad03560d54396af05b9e0be56dbd06f17d9472325308292",
+        "size": 7768724,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b8c3bc360075e": {
+    "APPName": "public",
+    "BaiduPath": "MCF12/双光源枪机/firmware_MCF12_V0_V3.0.2.3_LIGHT_202008070954.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MCF12_V0",
+    "Module": "MCF12",
+    "Solution": "",
+    "Variant": {
+      "en": "dual light, bullet camera",
+      "ru": "двойная подсветка, цилиндрическая камера",
+      "zh": "双光源枪机"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:50:36Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCF12__8c3bc360__firmware_MCF12_V0_V3.0.2.3_LIGHT_202008070954.bin",
+        "file": "firmware_MCF12_V0_V3.0.2.3_LIGHT_202008070954.bin",
+        "md5": "b38e4df562177f7d07d750cb38882c0d",
+        "release_date": "20200807",
+        "sha256": "8c3bc360075e77f2e9bac4e7e76b2f5045c31c30ea9badf252c58f08aff01453",
+        "size": 6669872,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.3"
+      }
+    ]
+  },
+  "b8e56b5f3df41": {
+    "APPName": "public",
+    "BaiduPath": "MC400L/普通红外/firmware_MC400L_V0-TAOS-H5_V3.0.2.1_202005151029.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC400L_V0-TAOS-H5",
+    "Module": "MC400L",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR",
+      "ru": "обычная ИК-подсветка",
+      "zh": "普通红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:48:34Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC400L__8e56b5f3__firmware_MC400L_V0-TAOS-H5_V3.0.2.1_202005151029.bin",
+        "file": "firmware_MC400L_V0-TAOS-H5_V3.0.2.1_202005151029.bin",
+        "md5": "54b318abf657fea6ba5813ed633c3f02",
+        "release_date": "20200515",
+        "sha256": "8e56b5f3df415a5eacb27acbad401bdc2359f413a1ad5d453447790434f85964",
+        "size": 10099056,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b8ea8f8138ef5": {
+    "APPName": "public",
+    "BaiduPath": "MSF12/双光源_暖光_红外/firmware_MSF12_V0_V3.0.2.5_STARC_202009300938.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MSF12_V0",
+    "Module": "MSF12",
+    "Solution": "",
+    "Variant": {
+      "en": "dual light, warm light, IR",
+      "ru": "двойная подсветка, тёплый свет, ИК-подсветка",
+      "zh": "双光源_暖光_红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:51:11Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MSF12__8ea8f813__firmware_MSF12_V0_V3.0.2.5_STARC_202009300938.bin",
+        "file": "firmware_MSF12_V0_V3.0.2.5_STARC_202009300938.bin",
+        "md5": "f0d75740517856f4f80cb39cf1c21335",
+        "release_date": "20200930",
+        "sha256": "8ea8f8138ef513e190dba05f89fb51c5be20c36292ac1baaeae218128ee8a6cf",
+        "size": 6732740,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.5"
+      }
+    ]
+  },
+  "b9212edf19347": {
+    "APPName": "public",
+    "BaiduPath": "MC200J8/普通红外/firmware_MC200J8_V0-H5_V3.0.2.1_202005111144.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC200J8_V0-H5",
+    "Module": "MC200J8",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR",
+      "ru": "обычная ИК-подсветка",
+      "zh": "普通红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:48:06Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC200J8__9212edf1__firmware_MC200J8_V0-H5_V3.0.2.1_202005111144.bin",
+        "file": "firmware_MC200J8_V0-H5_V3.0.2.1_202005111144.bin",
+        "md5": "a1f6143e0afc62afb291aeeb698807fa",
+        "release_date": "20200511",
+        "sha256": "9212edf19347eba6ca04c7d4de7b98332ad40b51b9db5bb42b91782051383e02",
+        "size": 7724624,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b934654d0fb0c": {
+    "APPName": "public",
+    "BaiduPath": "MC500L5/普通红外_自动聚焦/firmware_MC500L5_V0_AF-TAOS-H5_V3.0.2.1_202005150950.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC500L5_V0_AF-TAOS-H5",
+    "Module": "MC500L5",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR, autofocus",
+      "ru": "обычная ИК-подсветка, автофокус",
+      "zh": "普通红外_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:48:53Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC500L5__934654d0__firmware_MC500L5_V0_AF-TAOS-H5_V3.0.2.1_202005150950.bin",
+        "file": "firmware_MC500L5_V0_AF-TAOS-H5_V3.0.2.1_202005150950.bin",
+        "md5": "af9dcd014ea0332c37918d84c820142c",
+        "release_date": "20200515",
+        "sha256": "934654d0fb0c10a99d2ce5c908ca4ccac3056e6f4c8a85643525a37b95955988",
+        "size": 10115612,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b953488614145": {
+    "APPName": "public",
+    "BaiduPath": "MS200J6/暖光（软光敏）/firmware_MC200J6_V0-H5_V3.0.2.2_STARC_MS200J6_V0_202007020935.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC200J6_V0-H5",
+    "Module": "MS200J6",
+    "Solution": "",
+    "Variant": {
+      "en": "warm light (software light sensing)",
+      "ru": "тёплый свет (программный датчик освещённости)",
+      "zh": "暖光（软光敏）"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:51:09Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MS200J6__95348861__firmware_MC200J6_V0-H5_V3.0.2.2_STARC_MS200J6_V0_202007020935.bin",
+        "file": "firmware_MC200J6_V0-H5_V3.0.2.2_STARC_MS200J6_V0_202007020935.bin",
+        "md5": "68a890c8487c9f0b332a017c9fe1e521",
+        "release_date": "20200702",
+        "sha256": "953488614145e4f89959326645f7b2517705318ad18d98bc98fc3ed700dcaa7c",
+        "size": 7679568,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.2"
+      }
+    ]
+  },
+  "b97e687ecd806": {
+    "APPName": "public",
+    "BaiduPath": "MCE25/普通红外/firmware_MC300E25_V0_V3.0.2.1_202005111142.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC300E25_V0",
+    "Module": "MCE25",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR",
+      "ru": "обычная ИК-подсветка",
+      "zh": "普通红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:50:13Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCE25__97e687ec__firmware_MC300E25_V0_V3.0.2.1_202005111142.bin",
+        "file": "firmware_MC300E25_V0_V3.0.2.1_202005111142.bin",
+        "md5": "8f3dcef9ec75a54b1c0ef56c95676fcf",
+        "release_date": "20200511",
+        "sha256": "97e687ecd8067f0169eeca18ff4ae074d9101e7373ee26f382c38ead1451a7bd",
+        "size": 7347792,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b99edf69102ce": {
+    "APPName": "public",
+    "BaiduPath": "MCJ10/暖光（软光敏）/firmware_MCJ10_V0_V3.0.2.1_STARC_202005121135.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MCJ10_V0",
+    "Module": "MCJ10",
+    "Solution": "",
+    "Variant": {
+      "en": "warm light (software light sensing)",
+      "ru": "тёплый свет (программный датчик освещённости)",
+      "zh": "暖光（软光敏）"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:51:01Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCJ10__99edf691__firmware_MCJ10_V0_V3.0.2.1_STARC_202005121135.bin",
+        "file": "firmware_MCJ10_V0_V3.0.2.1_STARC_202005121135.bin",
+        "md5": "7219293347b3783300e6b55b363d7b24",
+        "release_date": "20200512",
+        "sha256": "99edf69102ce6db947209435de01c5095a2280103ccf60b1bd9d30d11f49f91b",
+        "size": 7447948,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b9beb41e9d674": {
+    "APPName": "public",
+    "BaiduPath": "MCE12/普通红外_自动聚焦/firmware_MC300E12.5_V0_AF-TAOS-H5_V3.0.2.1_202005151105.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC300E12.5_V0_AF-TAOS-H5",
+    "Module": "MCE12",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR, autofocus",
+      "ru": "обычная ИК-подсветка, автофокус",
+      "zh": "普通红外_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:49:49Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCE12__9beb41e9__firmware_MC300E12.5_V0_AF-TAOS-H5_V3.0.2.1_202005151105.bin",
+        "file": "firmware_MC300E12.5_V0_AF-TAOS-H5_V3.0.2.1_202005151105.bin",
+        "md5": "7b21c948b9809da9fc090ba62d4c764e",
+        "release_date": "20200515",
+        "sha256": "9beb41e9d674325a197d9582b823c199bcdb7cd0693bb930494902146c738dd4",
+        "size": 7732816,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "b9c2cd422d107": {
+    "APPName": "public",
+    "BaiduPath": "MC800N/普通红外/firmware_MC800N_V0-H5_V3.0.2.2_202007020940.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC800N_V0-H5",
+    "Module": "MC800N",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR",
+      "ru": "обычная ИК-подсветка",
+      "zh": "普通红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:49:30Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC800N__9c2cd422__firmware_MC800N_V0-H5_V3.0.2.2_202007020940.bin",
+        "file": "firmware_MC800N_V0-H5_V3.0.2.2_202007020940.bin",
+        "md5": "68b7a53be686e70f0aebb8e7cb4c9413",
+        "release_date": "20200702",
+        "sha256": "9c2cd422d107474f52918da7bf33ab9e5aa81b59243892967fcc19ca188a3272",
+        "size": 13295992,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.2"
+      }
+    ]
+  },
+  "ba383f450af34": {
+    "APPName": "public",
+    "BaiduPath": "MC200E6/暖光（软光敏）/firmware_MC200E6_V0-H5_V3.0.2.1_STARC_202005311449.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC200E6_V0-H5",
+    "Module": "MC200E6",
+    "Solution": "",
+    "Variant": {
+      "en": "warm light (software light sensing)",
+      "ru": "тёплый свет (программный датчик освещённости)",
+      "zh": "暖光（软光敏）"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:47:44Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC200E6__a383f450__firmware_MC200E6_V0-H5_V3.0.2.1_STARC_202005311449.bin",
+        "file": "firmware_MC200E6_V0-H5_V3.0.2.1_STARC_202005311449.bin",
+        "md5": "c25601d07b0a2cbacfad5d418c8ee7cb",
+        "release_date": "20200531",
+        "sha256": "a383f450af34c62f74c6e66a17605625a45dffc4e9554f7170f9a3325049617d",
+        "size": 7764628,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "bab9802826b29": {
+    "APPName": "public",
+    "BaiduPath": "MCE12/普通红外/firmware_MC300E12.5_V0-H5_V3.0.2.1_202005111142.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC300E12.5_V0-H5",
+    "Module": "MCE12",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR",
+      "ru": "обычная ИК-подсветка",
+      "zh": "普通红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:49:45Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCE12__ab980282__firmware_MC300E12.5_V0-H5_V3.0.2.1_202005111142.bin",
+        "file": "firmware_MC300E12.5_V0-H5_V3.0.2.1_202005111142.bin",
+        "md5": "d3a923fd747a2e16d846dd69a4be2b52",
+        "release_date": "20200511",
+        "sha256": "ab9802826b2976051cab9f5f51369a7e1a111dbea6ef22a61ec7b33d8e908319",
+        "size": 7732816,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "bac9249a5010c": {
+    "APPName": "public",
+    "BaiduPath": "MT200E5/firmware_MT200E5_V0_AF-GLK_V3.0.2.1_TF_202005151727.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MT200E5_V0_AF-GLK",
+    "Module": "MT200E5",
+    "Solution": "",
+    "Variant": null,
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:51:21Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MT200E5__ac9249a5__firmware_MT200E5_V0_AF-GLK_V3.0.2.1_TF_202005151727.bin",
+        "file": "firmware_MT200E5_V0_AF-GLK_V3.0.2.1_TF_202005151727.bin",
+        "md5": "7ab1db5e7564e784a489db462d615ea8",
+        "release_date": "20200515",
+        "sha256": "ac9249a5010cd36eba77b479caf46293413e9dc7a377bba62c855af13729db10",
+        "size": 7407444,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "bad6a744cc7a3": {
+    "APPName": "public",
+    "BaiduPath": "MC200J6/暖光（软光敏）/firmware_MC200J6_V0-H5_V3.0.2.1_STARC_202005111147.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC200J6_V0-H5",
+    "Module": "MC200J6",
+    "Solution": "",
+    "Variant": {
+      "en": "warm light (software light sensing)",
+      "ru": "тёплый свет (программный датчик освещённости)",
+      "zh": "暖光（软光敏）"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:47:58Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC200J6__ad6a744c__firmware_MC200J6_V0-H5_V3.0.2.1_STARC_202005111147.bin",
+        "file": "firmware_MC200J6_V0-H5_V3.0.2.1_STARC_202005111147.bin",
+        "md5": "189ca3f5796b2280e81a515ef147109f",
+        "release_date": "20200511",
+        "sha256": "ad6a744cc7a356b13100aac08d60d405b656157f443d3af63eaed3595de8c263",
+        "size": 7724624,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "bafe1043da4ae": {
+    "APPName": "public",
+    "BaiduPath": "MC200E2/普通红外/firmware_MC200E2_V0-H5_V3.0.2.1_202005211828.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC200E2_V0-H5",
+    "Module": "MC200E2",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR",
+      "ru": "обычная ИК-подсветка",
+      "zh": "普通红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:47:38Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC200E2__afe1043d__firmware_MC200E2_V0-H5_V3.0.2.1_202005211828.bin",
+        "file": "firmware_MC200E2_V0-H5_V3.0.2.1_202005211828.bin",
+        "md5": "4812a4305fb80593e8d5f7b6562f1379",
+        "release_date": "20200521",
+        "sha256": "afe1043da4ae385301e4ae39f6b72f8861dedc04ed7d7a387ab1d46b4be3d050",
+        "size": 7759912,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "bb18ef5ecc0f3": {
+    "APPName": "public",
+    "BaiduPath": "MC200J6/暖光（软光敏）/firmware_MC200J6_V0-H5_V3.0.2.2_STARC_202007020934.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC200J6_V0-H5",
+    "Module": "MC200J6",
+    "Solution": "",
+    "Variant": {
+      "en": "warm light (software light sensing)",
+      "ru": "тёплый свет (программный датчик освещённости)",
+      "zh": "暖光（软光敏）"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:48:00Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC200J6__b18ef5ec__firmware_MC200J6_V0-H5_V3.0.2.2_STARC_202007020934.bin",
+        "file": "firmware_MC200J6_V0-H5_V3.0.2.2_STARC_202007020934.bin",
+        "md5": "66177119ee2d05d7def3ab3506e64c27",
+        "release_date": "20200702",
+        "sha256": "b18ef5ecc0f346b52d8f96a140c501f08f65568a419bca882d0790369be0f637",
+        "size": 7728720,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.2"
+      }
+    ]
+  },
+  "bb28f8dbd6c08": {
+    "APPName": "public",
+    "BaiduPath": "MCJ10/MCJ10蓝色WEB不带人形/firmware_MCJ10_V0-H5_V3.0.2.1_202007021221.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MCJ10_V0-H5",
+    "Module": "MCJ10",
+    "Solution": "",
+    "Variant": {
+      "en": "MCJ10, blue web interface, without human detection",
+      "ru": "MCJ10, синий веб-интерфейс, без детекции людей",
+      "zh": "MCJ10蓝色WEB不带人形"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:50:51Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCJ10__b28f8dbd__firmware_MCJ10_V0-H5_V3.0.2.1_202007021221.bin",
+        "file": "firmware_MCJ10_V0-H5_V3.0.2.1_202007021221.bin",
+        "md5": "15f21c256e42cba4393d08329123b20c",
+        "release_date": "20200702",
+        "sha256": "b28f8dbd6c08e0332ed60e572288f6afa13326eec609cc1e515e810378fdc850",
+        "size": 7485444,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "bb3e6937cb177": {
+    "APPName": "public",
+    "BaiduPath": "MCE25/软光敏红外/firmware_MC300E25_V0_V3.0.2.1_STARIR_202005111200.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC300E25_V0",
+    "Module": "MCE25",
+    "Solution": "",
+    "Variant": {
+      "en": "IR with software light sensing",
+      "ru": "ИК-подсветка с программным датчиком освещённости",
+      "zh": "软光敏红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:50:22Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCE25__b3e6937c__firmware_MC300E25_V0_V3.0.2.1_STARIR_202005111200.bin",
+        "file": "firmware_MC300E25_V0_V3.0.2.1_STARIR_202005111200.bin",
+        "md5": "48032fd499a4a3d2fddd6dcbd3231970",
+        "release_date": "20200511",
+        "sha256": "b3e6937cb17720624f1e7f7b1f835142141b272c513bb51691798b326392949c",
+        "size": 7347792,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "bb4724afe1ff2": {
+    "APPName": "public",
+    "BaiduPath": "MC200J6/普通红外/firmware_MC200J6_V0-H5_V3.0.2.2_202007020927.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC200J6_V0-H5",
+    "Module": "MC200J6",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR",
+      "ru": "обычная ИК-подсветка",
+      "zh": "普通红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:47:52Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC200J6__b4724afe__firmware_MC200J6_V0-H5_V3.0.2.2_202007020927.bin",
+        "file": "firmware_MC200J6_V0-H5_V3.0.2.2_202007020927.bin",
+        "md5": "360b2edfbe6ea033796483f3245b4536",
+        "release_date": "20200702",
+        "sha256": "b4724afe1ff2b3a35e8347429505f55a19754f3b44bbbc2fd856a5b7f91b5f0d",
+        "size": 7728720,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.2"
+      }
+    ]
+  },
+  "bb4bb9f2423b8": {
+    "APPName": "public",
+    "BaiduPath": "MC500L/暖光（软光敏）/firmware_MC500L_V0-H5_V3.0.2.1_STARC_202005121542.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC500L_V0-H5",
+    "Module": "MC500L",
+    "Solution": "",
+    "Variant": {
+      "en": "warm light (software light sensing)",
+      "ru": "тёплый свет (программный датчик освещённости)",
+      "zh": "暖光（软光敏）"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:48:46Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC500L__b4bb9f24__firmware_MC500L_V0-H5_V3.0.2.1_STARC_202005121542.bin",
+        "file": "firmware_MC500L_V0-H5_V3.0.2.1_STARC_202005121542.bin",
+        "md5": "8d2e283b78b8e44cc7a26d34098dc2fc",
+        "release_date": "20200512",
+        "sha256": "b4bb9f2423b836fd78161daaabf9db25a477c8d204a77ed06c7b08e7ec4c3a44",
+        "size": 10050076,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "bb613e63e4caa": {
+    "APPName": "public",
+    "BaiduPath": "MC300E10.5/暖光（软光敏）/firmware_MC300E10_V0-TAOS-H5_3MP_V3.0.2.1_STARC_MC300E10.5_V0_202005151056.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC300E10_V0-TAOS-H5_3MP",
+    "Module": "MC300E10.5",
+    "Solution": "",
+    "Variant": {
+      "en": "warm light (software light sensing)",
+      "ru": "тёплый свет (программный датчик освещённости)",
+      "zh": "暖光（软光敏）"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:48:30Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC300E10.5__b613e63e__firmware_MC300E10_V0-TAOS-H5_3MP_V3.0.2.1_STARC_MC300E10.5_V0_202005151056.bin",
+        "file": "firmware_MC300E10_V0-TAOS-H5_3MP_V3.0.2.1_STARC_MC300E10.5_V0_202005151056.bin",
+        "md5": "65e1368d7455f25a28f538a399bf14dd",
+        "release_date": "20200515",
+        "sha256": "b613e63e4caa184653eb64dd2601fa4e59c4fe026d7e91eb29201f488c0a3cbb",
+        "size": 7690900,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "bb901ad9dbbda": {
+    "APPName": "public",
+    "BaiduPath": "MCE16/软光敏红外/firmware_MCE16_V0-H5_V3.0.2.1_STARIR_202005111200.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MCE16_V0-H5",
+    "Module": "MCE16",
+    "Solution": "",
+    "Variant": {
+      "en": "IR with software light sensing",
+      "ru": "ИК-подсветка с программным датчиком освещённости",
+      "zh": "软光敏红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:50:10Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCE16__b901ad9d__firmware_MCE16_V0-H5_V3.0.2.1_STARIR_202005111200.bin",
+        "file": "firmware_MCE16_V0-H5_V3.0.2.1_STARIR_202005111200.bin",
+        "md5": "d7819a336e443ab7fc44658b1dd67149",
+        "release_date": "20200511",
+        "sha256": "b901ad9dbbda3852d2f6d97c749e86314eb5c9605d05ac05c9c65a8e1a3d8c48",
+        "size": 7732816,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "bb929fa67e059": {
+    "APPName": "public",
+    "BaiduPath": "MCE25/普通红外/firmware_MC300E25_V0_V3.0.2.2_202007020930.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC300E25_V0",
+    "Module": "MCE25",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR",
+      "ru": "обычная ИК-подсветка",
+      "zh": "普通红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:50:15Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCE25__b929fa67__firmware_MC300E25_V0_V3.0.2.2_202007020930.bin",
+        "file": "firmware_MC300E25_V0_V3.0.2.2_202007020930.bin",
+        "md5": "baaa1f1414d840fba662479839e64070",
+        "release_date": "20200702",
+        "sha256": "b929fa67e059be140969e69c58fb5a6c1d99c2b4006e894daa685367f744d82c",
+        "size": 7351888,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.2"
+      }
+    ]
+  },
+  "bba5d9bcaf7a3": {
+    "APPName": "public",
+    "BaiduPath": "MC800E/普通红外/firmware_MC800E_V0-H5_V3.0.2.1_202005111220.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC800E_V0-H5",
+    "Module": "MC800E",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR",
+      "ru": "обычная ИК-подсветка",
+      "zh": "普通红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:49:09Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC800E__ba5d9bca__firmware_MC800E_V0-H5_V3.0.2.1_202005111220.bin",
+        "file": "firmware_MC800E_V0-H5_V3.0.2.1_202005111220.bin",
+        "md5": "0e659e48038315899523b3b961d8132d",
+        "release_date": "20200511",
+        "sha256": "ba5d9bcaf7a3c845147ce0e96891a8f6cf80e4a1191e7dad6cb91846fd2b857e",
+        "size": 13295992,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "bc0c918834676": {
+    "APPName": "public",
+    "BaiduPath": "MCE12/暖光（软光敏）_自动聚焦/firmware_MC300E12.5_V0_AF-H5_V3.0.2.1_STARC_202005111149.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC300E12.5_V0_AF-H5",
+    "Module": "MCE12",
+    "Solution": "",
+    "Variant": {
+      "en": "warm light (software light sensing), autofocus",
+      "ru": "тёплый свет (программный датчик освещённости), автофокус",
+      "zh": "暖光（软光敏）_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:49:57Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCE12__c0c91883__firmware_MC300E12.5_V0_AF-H5_V3.0.2.1_STARC_202005111149.bin",
+        "file": "firmware_MC300E12.5_V0_AF-H5_V3.0.2.1_STARC_202005111149.bin",
+        "md5": "bb3353999c0d786d1e1da1be222ba38d",
+        "release_date": "20200511",
+        "sha256": "c0c918834676bb2ab1f99c9b670b14c999521df19c3aee4e3f93c099fa50421b",
+        "size": 7732816,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "bc84e9a9c0f9d": {
+    "APPName": "public",
+    "BaiduPath": "MCE25/普通红外_自动聚焦/firmware_MC300E25_V0_AF_V3.0.2.1_202005111142.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC300E25_V0_AF",
+    "Module": "MCE25",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR, autofocus",
+      "ru": "обычная ИК-подсветка, автофокус",
+      "zh": "普通红外_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:50:17Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCE25__c84e9a9c__firmware_MC300E25_V0_AF_V3.0.2.1_202005111142.bin",
+        "file": "firmware_MC300E25_V0_AF_V3.0.2.1_202005111142.bin",
+        "md5": "42a6c5c22c05e19c044dc71af77028f6",
+        "release_date": "20200511",
+        "sha256": "c84e9a9c0f9d3016ff7decbd073efedd71b8af9ee3fc9129e7fd58edb1501015",
+        "size": 7347792,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "bc917bd352cf0": {
+    "APPName": "public",
+    "BaiduPath": "MC800L/普通红外_自动聚焦/firmware_MC800L_V0_AF-H5_V3.0.2.1_202005111219.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC800L_V0_AF-H5",
+    "Module": "MC800L",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR, autofocus",
+      "ru": "обычная ИК-подсветка, автофокус",
+      "zh": "普通红外_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:49:23Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC800L__c917bd35__firmware_MC800L_V0_AF-H5_V3.0.2.1_202005111219.bin",
+        "file": "firmware_MC800L_V0_AF-H5_V3.0.2.1_202005111219.bin",
+        "md5": "74bf4de95f2ba5208307eeee8a6f502b",
+        "release_date": "20200511",
+        "sha256": "c917bd352cf0d3e803f095c11a746500344ee27d0f6b52403647d90e6686463d",
+        "size": 13287800,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "bca1abbf4104e": {
+    "APPName": "public",
+    "BaiduPath": "MCE12/双光源球机/firmware_MC300E12.5_V0_AF_V3.0.2.1_LIGHTDOOM_202005141715.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC300E12.5_V0_AF",
+    "Module": "MCE12",
+    "Solution": "",
+    "Variant": {
+      "en": "dual light, dome camera",
+      "ru": "двойная подсветка, купольная камера",
+      "zh": "双光源球机"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:49:43Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCE12__ca1abbf4__firmware_MC300E12.5_V0_AF_V3.0.2.1_LIGHTDOOM_202005141715.bin",
+        "file": "firmware_MC300E12.5_V0_AF_V3.0.2.1_LIGHTDOOM_202005141715.bin",
+        "md5": "686b28e6fb1313ff632f02a29f2ac064",
+        "release_date": "20200514",
+        "sha256": "ca1abbf4104ee84573d6a56ee4aa2d9a9bff142c7c70fe1d5fccb7c05c9aa9b4",
+        "size": 7720372,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "bcd69502dda62": {
+    "APPName": "public",
+    "BaiduPath": "MC300E10.3/软光敏红外_自动聚焦/firmware_MC300E10_V0_AF-TAOS-H5_3MP_V3.0.2.1_STARIR_MC300E10.3_V0_202005151052.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC300E10_V0_AF-TAOS-H5_3MP",
+    "Module": "MC300E10.3",
+    "Solution": "",
+    "Variant": {
+      "en": "IR with software light sensing, autofocus",
+      "ru": "ИК-подсветка с программным датчиком освещённости, автофокус",
+      "zh": "软光敏红外_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:48:28Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC300E10.3__cd69502d__firmware_MC300E10_V0_AF-TAOS-H5_3MP_V3.0.2.1_STARIR_MC300E10.3_V0_202005151052.bin",
+        "file": "firmware_MC300E10_V0_AF-TAOS-H5_3MP_V3.0.2.1_STARIR_MC300E10.3_V0_202005151052.bin",
+        "md5": "5138b2007835effefc94e79f45cb58cb",
+        "release_date": "20200515",
+        "sha256": "cd69502dda6213ffb4c3273cb7d9fa13742474c2236db3f618a849675b895e92",
+        "size": 7690900,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "bcdc7885a30ed": {
+    "APPName": "public",
+    "BaiduPath": "MC500L/暖光（软光敏）_自动聚焦/firmware_MC500L_V0_AF-H5_V3.0.2.1_STARC_202005281040.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC500L_V0_AF-H5",
+    "Module": "MC500L",
+    "Solution": "",
+    "Variant": {
+      "en": "warm light (software light sensing), autofocus",
+      "ru": "тёплый свет (программный датчик освещённости), автофокус",
+      "zh": "暖光（软光敏）_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:48:49Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC500L__cdc7885a__firmware_MC500L_V0_AF-H5_V3.0.2.1_STARC_202005281040.bin",
+        "file": "firmware_MC500L_V0_AF-H5_V3.0.2.1_STARC_202005281040.bin",
+        "md5": "c03682a9b3fcfec86fc569b1494a1d63",
+        "release_date": "20200528",
+        "sha256": "cdc7885a30edc466931c93dd98cbc7c7c91fa031c5772c3f8ce89c34f0f7a262",
+        "size": 10050076,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "bcf0f9a00d634": {
+    "APPName": "public",
+    "BaiduPath": "MT200E5/firmware_MT200E5_V0_AF-GLK_V3.0.2.3_TF_MT200E5_LIGHT_V0_202008041015.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MT200E5_V0_AF-GLK",
+    "Module": "MT200E5",
+    "Solution": "",
+    "Variant": null,
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:51:23Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MT200E5__cf0f9a00__firmware_MT200E5_V0_AF-GLK_V3.0.2.3_TF_MT200E5_LIGHT_V0_202008041015.bin",
+        "file": "firmware_MT200E5_V0_AF-GLK_V3.0.2.3_TF_MT200E5_LIGHT_V0_202008041015.bin",
+        "md5": "faee9baeaf3adf297f11565e42e8a25f",
+        "release_date": "20200804",
+        "sha256": "cf0f9a00d634acdc2c63c5506f51ef3c9470776b060dfdabf37a3abb1fa54097",
+        "size": 8374100,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.3"
+      }
+    ]
+  },
+  "bd0b019a086c9": {
+    "APPName": "public",
+    "BaiduPath": "MC500N/普通红外_自动聚焦/firmware_MC500N_V0_AF-H5_V3.0.2.1_202005111221.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC500N_V0_AF-H5",
+    "Module": "MC500N",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR, autofocus",
+      "ru": "обычная ИК-подсветка, автофокус",
+      "zh": "普通红外_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:49:05Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC500N__d0b019a0__firmware_MC500N_V0_AF-H5_V3.0.2.1_202005111221.bin",
+        "file": "firmware_MC500N_V0_AF-H5_V3.0.2.1_202005111221.bin",
+        "md5": "1fb18ccfdfc7ec38f1c45b4fa13818de",
+        "release_date": "20200511",
+        "sha256": "d0b019a086c9f91b2ae0fed8c7d9ecf7cf62551a8e67c4d1f8ce3022cea67b26",
+        "size": 13295992,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "bd29643aca2f8": {
+    "APPName": "public",
+    "BaiduPath": "MS200J6/暖光（软光敏）/firmware_MC200J6_V0-H5_V3.0.2.1_STARC_MS200J6_V0_202005111148.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC200J6_V0-H5",
+    "Module": "MS200J6",
+    "Solution": "",
+    "Variant": {
+      "en": "warm light (software light sensing)",
+      "ru": "тёплый свет (программный датчик освещённости)",
+      "zh": "暖光（软光敏）"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:51:07Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MS200J6__d29643ac__firmware_MC200J6_V0-H5_V3.0.2.1_STARC_MS200J6_V0_202005111148.bin",
+        "file": "firmware_MC200J6_V0-H5_V3.0.2.1_STARC_MS200J6_V0_202005111148.bin",
+        "md5": "72352d46e5db41e084e62ab6af9645fe",
+        "release_date": "20200511",
+        "sha256": "d29643aca2f827e36ccb3dd535075df6e57e50b49756df492090a98e762f772f",
+        "size": 7675472,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "bd311f6339ae8": {
+    "APPName": "public",
+    "BaiduPath": "MSF12/双光源_暖光_红外_球机/firmware_MSF12_V0_AF_V3.0.2.5_STARC_202008261520.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MSF12_V0_AF",
+    "Module": "MSF12",
+    "Solution": "",
+    "Variant": {
+      "en": "dual light, warm light, IR, dome camera",
+      "ru": "двойная подсветка, тёплый свет, ИК-подсветка, купольная камера",
+      "zh": "双光源_暖光_红外_球机"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:51:13Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MSF12__d311f633__firmware_MSF12_V0_AF_V3.0.2.5_STARC_202008261520.bin",
+        "file": "firmware_MSF12_V0_AF_V3.0.2.5_STARC_202008261520.bin",
+        "md5": "f23c755c8a304264e142386fb764cc02",
+        "release_date": "20200826",
+        "sha256": "d311f6339ae8213f283b2cfa48af019a633d918994fefb1750c1e9da82e6bc13",
+        "size": 6675396,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.5"
+      }
+    ]
+  },
+  "bd7e7f46dc130": {
+    "APPName": "public",
+    "BaiduPath": "MCF50/暖光（软光敏）/firmware_MCF50_V0-H5_V3.0.2.3_STARC_202008070948.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MCF50_V0-H5",
+    "Module": "MCF50",
+    "Solution": "",
+    "Variant": {
+      "en": "warm light (software light sensing)",
+      "ru": "тёплый свет (программный датчик освещённости)",
+      "zh": "暖光（软光敏）"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:50:47Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCF50__d7e7f46d__firmware_MCF50_V0-H5_V3.0.2.3_STARC_202008070948.bin",
+        "file": "firmware_MCF50_V0-H5_V3.0.2.3_STARC_202008070948.bin",
+        "md5": "de1d68ecc7bb1fe2e670b2001f11312c",
+        "release_date": "20200807",
+        "sha256": "d7e7f46dc130ba21894f69b209715638adb86d6f9a4b247440224715aa3d15f2",
+        "size": 8863692,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.3"
+      }
+    ]
+  },
+  "bd85a655c80c7": {
+    "APPName": "public",
+    "BaiduPath": "MC800E/普通红外_自动聚焦/firmware_MC800E_V0_AF-H5_V3.0.2.1_202005111220.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC800E_V0_AF-H5",
+    "Module": "MC800E",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR, autofocus",
+      "ru": "обычная ИК-подсветка, автофокус",
+      "zh": "普通红外_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:49:13Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC800E__d85a655c__firmware_MC800E_V0_AF-H5_V3.0.2.1_202005111220.bin",
+        "file": "firmware_MC800E_V0_AF-H5_V3.0.2.1_202005111220.bin",
+        "md5": "782dddeb36d29e4dc23590a9461a7643",
+        "release_date": "20200511",
+        "sha256": "d85a655c80c7bd0eb32bd7db759275a0213d72af9793b37ccd060cdece060f33",
+        "size": 13295992,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "bdca20baa3971": {
+    "APPName": "public",
+    "BaiduPath": "MSF50/双光源_暖光_红外_球机/firmware_MSF50_V0_AF-H5_V3.0.2.3_STARC_202008070949.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MSF50_V0_AF-H5",
+    "Module": "MSF50",
+    "Solution": "",
+    "Variant": {
+      "en": "dual light, warm light, IR, dome camera",
+      "ru": "двойная подсветка, тёплый свет, ИК-подсветка, купольная камера",
+      "zh": "双光源_暖光_红外_球机"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:51:17Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MSF50__dca20baa__firmware_MSF50_V0_AF-H5_V3.0.2.3_STARC_202008070949.bin",
+        "file": "firmware_MSF50_V0_AF-H5_V3.0.2.3_STARC_202008070949.bin",
+        "md5": "a5ee8c929515eb3e60270a077c8d5769",
+        "release_date": "20200807",
+        "sha256": "dca20baa39718a8f1eb1e3e1a913b79b56fc9d19b9f7f82e1f28c534cf25c7b1",
+        "size": 8850352,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.3"
+      }
+    ]
+  },
+  "bdeebb81be0e2": {
+    "APPName": "public",
+    "BaiduPath": "MC200J8/普通红外_自动聚焦/firmware_MC200J8_V0_AF-H5_V3.0.2.2_202007020932.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC200J8_V0_AF-H5",
+    "Module": "MC200J8",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR, autofocus",
+      "ru": "обычная ИК-подсветка, автофокус",
+      "zh": "普通红外_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:48:12Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC200J8__deebb81b__firmware_MC200J8_V0_AF-H5_V3.0.2.2_202007020932.bin",
+        "file": "firmware_MC200J8_V0_AF-H5_V3.0.2.2_202007020932.bin",
+        "md5": "d26e9e05212986df52762b1a1641260a",
+        "release_date": "20200702",
+        "sha256": "deebb81be0e282d5bd9e2bbdb09bdb044c4edddebe3766814f19dd0f0d39c328",
+        "size": 7732816,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.2"
+      }
+    ]
+  },
+  "be1b54b92c430": {
+    "APPName": "public",
+    "BaiduPath": "MC300E10/普通红外/firmware_MC300E10_V0-TAOS-H5_3MP_V3.0.2.1_202005151037.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC300E10_V0-TAOS-H5_3MP",
+    "Module": "MC300E10",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR",
+      "ru": "обычная ИК-подсветка",
+      "zh": "普通红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:48:22Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC300E10__e1b54b92__firmware_MC300E10_V0-TAOS-H5_3MP_V3.0.2.1_202005151037.bin",
+        "file": "firmware_MC300E10_V0-TAOS-H5_3MP_V3.0.2.1_202005151037.bin",
+        "md5": "0eeee789e7cca43db6e1f653c376e59e",
+        "release_date": "20200515",
+        "sha256": "e1b54b92c430542cf782a246f77b302b657519ad0797e358de4479151965370b",
+        "size": 7686184,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "be61828ac5173": {
+    "APPName": "public",
+    "BaiduPath": "MC200J8/暖光（软光敏）_自动聚焦/firmware_MC200J8_V0_AF-H5_V3.0.2.2_STARC_202007020938.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC200J8_V0_AF-H5",
+    "Module": "MC200J8",
+    "Solution": "",
+    "Variant": {
+      "en": "warm light (software light sensing), autofocus",
+      "ru": "тёплый свет (программный датчик освещённости), автофокус",
+      "zh": "暖光（软光敏）_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:48:20Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC200J8__e61828ac__firmware_MC200J8_V0_AF-H5_V3.0.2.2_STARC_202007020938.bin",
+        "file": "firmware_MC200J8_V0_AF-H5_V3.0.2.2_STARC_202007020938.bin",
+        "md5": "deba3cad1e493cb15f97a1b7bf2cc1a8",
+        "release_date": "20200702",
+        "sha256": "e61828ac51732f507920a7084d37479a716d7ac31264d60f15ce9f4e9b9764ef",
+        "size": 7732816,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.2"
+      }
+    ]
+  },
+  "be8d2a4c9a73a": {
+    "APPName": "public",
+    "BaiduPath": "MC500L5/普通红外/firmware_MC500L5_V0-TAOS-H5_V3.0.2.1_202005150950.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC500L5_V0-TAOS-H5",
+    "Module": "MC500L5",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR",
+      "ru": "обычная ИК-подсветка",
+      "zh": "普通红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:48:51Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC500L5__e8d2a4c9__firmware_MC500L5_V0-TAOS-H5_V3.0.2.1_202005150950.bin",
+        "file": "firmware_MC500L5_V0-TAOS-H5_V3.0.2.1_202005150950.bin",
+        "md5": "ccf2cad4b9dc3ab5729f0f660b3aea02",
+        "release_date": "20200515",
+        "sha256": "e8d2a4c9a73ad5035bfba7e535f5caae757d5c13c763cc78d08bf3702d7ebb48",
+        "size": 10115612,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "bef90a47f618c": {
+    "APPName": "public",
+    "BaiduPath": "MC800N/普通红外_自动聚焦/firmware_MC800N_V0_AF-H5_V3.0.2.1_202005111221.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC800N_V0_AF-H5",
+    "Module": "MC800N",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR, autofocus",
+      "ru": "обычная ИК-подсветка, автофокус",
+      "zh": "普通红外_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:49:32Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC800N__ef90a47f__firmware_MC800N_V0_AF-H5_V3.0.2.1_202005111221.bin",
+        "file": "firmware_MC800N_V0_AF-H5_V3.0.2.1_202005111221.bin",
+        "md5": "470b39f18ca35dfbeae46122c53333c7",
+        "release_date": "20200511",
+        "sha256": "ef90a47f618cd1a970adfdf5bb579cc2179a30e11040eff238870ce98480a934",
+        "size": 13295992,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "bf18e23bdb75c": {
+    "APPName": "public",
+    "BaiduPath": "MCJ10/双光源/firmware_MCJ10_V0_V3.0.2.1_LIGHT_202006291502.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MCJ10_V0",
+    "Module": "MCJ10",
+    "Solution": "",
+    "Variant": {
+      "en": "dual light",
+      "ru": "двойная подсветка",
+      "zh": "双光源"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:50:53Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCJ10__f18e23bd__firmware_MCJ10_V0_V3.0.2.1_LIGHT_202006291502.bin",
+        "file": "firmware_MCJ10_V0_V3.0.2.1_LIGHT_202006291502.bin",
+        "md5": "bfad8dc96228ae0fef0b6cdd8cc6295e",
+        "release_date": "20200629",
+        "sha256": "f18e23bdb75c9a1e8ea076e7f8b43b37a0446dc3c5a1f1cf4295489369043c09",
+        "size": 7050800,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "bf1b7b589dfef": {
+    "APPName": "public",
+    "BaiduPath": "MCJ10/暖光（软光敏）/firmware_MCJ10_V0_V3.0.2.5_STARC_202009271019.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MCJ10_V0",
+    "Module": "MCJ10",
+    "Solution": "",
+    "Variant": {
+      "en": "warm light (software light sensing)",
+      "ru": "тёплый свет (программный датчик освещённости)",
+      "zh": "暖光（软光敏）"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:51:03Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCJ10__f1b7b589__firmware_MCJ10_V0_V3.0.2.5_STARC_202009271019.bin",
+        "file": "firmware_MCJ10_V0_V3.0.2.5_STARC_202009271019.bin",
+        "md5": "7ffb7ff4e2faab0feb87095f37fb6c4d",
+        "release_date": "20200927",
+        "sha256": "f1b7b589dfefc39dee1cbb3595db2283bddfc7690b23722beb31535e6ff54a03",
+        "size": 6780220,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.5"
+      }
+    ]
+  },
+  "bf1caa7c81f1c": {
+    "APPName": "public",
+    "BaiduPath": "MCE15/普通红外/firmware_MCE15_V0-H5_V3.0.2.2_202007020930.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MCE15_V0-H5",
+    "Module": "MCE15",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR",
+      "ru": "обычная ИК-подсветка",
+      "zh": "普通红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:50:03Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCE15__f1caa7c8__firmware_MCE15_V0-H5_V3.0.2.2_202007020930.bin",
+        "file": "firmware_MCE15_V0-H5_V3.0.2.2_202007020930.bin",
+        "md5": "3d53b394d8f4f7a8e5633670e33489c1",
+        "release_date": "20200702",
+        "sha256": "f1caa7c81f1c0de87dccc8ea9890bb8db2880ec426bc58e34c7405797970932b",
+        "size": 7736912,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.2"
+      }
+    ]
+  },
+  "bf1cebcaf5b1c": {
+    "APPName": "public",
+    "BaiduPath": "MC800E/普通红外/firmware_MC800E_V0-H5_V3.0.2.2_202007020938.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC800E_V0-H5",
+    "Module": "MC800E",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR",
+      "ru": "обычная ИК-подсветка",
+      "zh": "普通红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:49:11Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC800E__f1cebcaf__firmware_MC800E_V0-H5_V3.0.2.2_202007020938.bin",
+        "file": "firmware_MC800E_V0-H5_V3.0.2.2_202007020938.bin",
+        "md5": "a2072e540aacf7b283e0cea039252fff",
+        "release_date": "20200702",
+        "sha256": "f1cebcaf5b1c224d15492b1b4c0c70106394dac8ea9758aea31bc215754e30ce",
+        "size": 13295992,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.2"
+      }
+    ]
+  },
+  "bf21134c6457f": {
+    "APPName": "public",
+    "BaiduPath": "MC200E3/firmware_MC200E3_V0-TAOS-H5_V3.0.2.1_202005160941.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC200E3_V0-TAOS-H5",
+    "Module": "MC200E3",
+    "Solution": "",
+    "Variant": null,
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:47:40Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC200E3__f21134c6__firmware_MC200E3_V0-TAOS-H5_V3.0.2.1_202005160941.bin",
+        "file": "firmware_MC200E3_V0-TAOS-H5_V3.0.2.1_202005160941.bin",
+        "md5": "117476604d4b24e46f6694fd386793a9",
+        "release_date": "20200516",
+        "sha256": "f21134c6457f29d69fae3be0db71691f07ae9b8aa81945ca393d4ea6b52003cd",
+        "size": 7669800,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "bf40925696a01": {
+    "APPName": "public",
+    "BaiduPath": "MC200J6/暖光（软光敏）_自动聚焦/firmware_MC200J6_V0_AF-H5_V3.0.2.1_STARC_202005111147.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC200J6_V0_AF-H5",
+    "Module": "MC200J6",
+    "Solution": "",
+    "Variant": {
+      "en": "warm light (software light sensing), autofocus",
+      "ru": "тёплый свет (программный датчик освещённости), автофокус",
+      "zh": "暖光（软光敏）_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:48:02Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC200J6__f4092569__firmware_MC200J6_V0_AF-H5_V3.0.2.1_STARC_202005111147.bin",
+        "file": "firmware_MC200J6_V0_AF-H5_V3.0.2.1_STARC_202005111147.bin",
+        "md5": "58a3a7d68c9f9f363718e052f1183dfd",
+        "release_date": "20200511",
+        "sha256": "f40925696a01fa71def390946f03b03f4be774e6faa6032fff648e89113a6607",
+        "size": 7724624,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "bf509c5cc4a9b": {
+    "APPName": "public",
+    "BaiduPath": "MC200J6/普通红外/firmware_MC200J6_V0-H5_V3.0.2.1_202005111139.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC200J6_V0-H5",
+    "Module": "MC200J6",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR",
+      "ru": "обычная ИК-подсветка",
+      "zh": "普通红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:47:50Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC200J6__f509c5cc__firmware_MC200J6_V0-H5_V3.0.2.1_202005111139.bin",
+        "file": "firmware_MC200J6_V0-H5_V3.0.2.1_202005111139.bin",
+        "md5": "266b3114184ae56a52d8fde0daf04431",
+        "release_date": "20200511",
+        "sha256": "f509c5cc4a9baa20cd00b6dac0aa0c00c2c7ca817c97ae0f3c72d84f79bd7a26",
+        "size": 7724624,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "bf778a4b68969": {
+    "APPName": "public",
+    "BaiduPath": "MC800L/普通红外_自动聚焦/firmware_MC800L_V0_AF-H5_V3.0.2.2_202007020938.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC800L_V0_AF-H5",
+    "Module": "MC800L",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR, autofocus",
+      "ru": "обычная ИК-подсветка, автофокус",
+      "zh": "普通红外_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:49:25Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC800L__f778a4b6__firmware_MC800L_V0_AF-H5_V3.0.2.2_202007020938.bin",
+        "file": "firmware_MC800L_V0_AF-H5_V3.0.2.2_202007020938.bin",
+        "md5": "e12385375fddeb3e9a7b5bb7adb49fd3",
+        "release_date": "20200702",
+        "sha256": "f778a4b68969ed3349f36dbc8e9f66ee4c3f714377f12509f266712575d22fb4",
+        "size": 13291896,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.2"
+      }
+    ]
+  },
+  "bf88e9821e692": {
+    "APPName": "public",
+    "BaiduPath": "MC300E10/普通红外_自动聚焦/firmware_MC300E10_V0_AF-TAOS-H5_3MP_V3.0.2.1_202005151045.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC300E10_V0_AF-TAOS-H5_3MP",
+    "Module": "MC300E10",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR, autofocus",
+      "ru": "обычная ИК-подсветка, автофокус",
+      "zh": "普通红外_自动聚焦"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:48:24Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC300E10__f88e9821__firmware_MC300E10_V0_AF-TAOS-H5_3MP_V3.0.2.1_202005151045.bin",
+        "file": "firmware_MC300E10_V0_AF-TAOS-H5_3MP_V3.0.2.1_202005151045.bin",
+        "md5": "dab492d7151ddb18a42dd949d78b18d8",
+        "release_date": "20200515",
+        "sha256": "f88e9821e692e26b1354e7009f4cdc5bc3a3e11ae4bfa06ebb1567c97bb0eb2c",
+        "size": 7686184,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "bfb03eb4eae7f": {
+    "APPName": "public",
+    "BaiduPath": "MC500N/普通红外/firmware_MC500N_V0-H5_V3.0.2.1_202005111220.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC500N_V0-H5",
+    "Module": "MC500N",
+    "Solution": "",
+    "Variant": {
+      "en": "standard IR",
+      "ru": "обычная ИК-подсветка",
+      "zh": "普通红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:49:00Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MC500N__fb03eb4e__firmware_MC500N_V0-H5_V3.0.2.1_202005111220.bin",
+        "file": "firmware_MC500N_V0-H5_V3.0.2.1_202005111220.bin",
+        "md5": "b344e34646f1a1524d3c8d09ae8bfdb1",
+        "release_date": "20200511",
+        "sha256": "fb03eb4eae7fa675b9bc252ddd44032100b1567e290a2061d3ba446732c41be6",
+        "size": 13295992,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.1"
+      }
+    ]
+  },
+  "bfb90bab13ae3": {
+    "APPName": "public",
+    "BaiduPath": "MCE16/软光敏红外/firmware_MCE16_V0-H5_V3.0.2.2_STARIR_202007020941.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MCE16_V0-H5",
+    "Module": "MCE16",
+    "Solution": "",
+    "Variant": {
+      "en": "IR with software light sensing",
+      "ru": "ИК-подсветка с программным датчиком освещённости",
+      "zh": "软光敏红外"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:50:12Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCE16__fb90bab1__firmware_MCE16_V0-H5_V3.0.2.2_STARIR_202007020941.bin",
+        "file": "firmware_MCE16_V0-H5_V3.0.2.2_STARIR_202007020941.bin",
+        "md5": "6d608d85f14fa320ccb07e995ccb2e13",
+        "release_date": "20200702",
+        "sha256": "fb90bab13ae3613b25e8e7facf843d804bc2eedc88c4e2db49852405e11786cf",
+        "size": 7736912,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.2"
+      }
+    ]
+  },
+  "bff7a77cc3aba": {
+    "APPName": "public",
+    "BaiduPath": "MCE12/双光源枪机/firmware_MC300E12.5_V0_V3.0.2.2_LIGHT_202007021650.bin",
+    "Collection": "pre-2022",
+    "DeviceCategory": "i",
+    "DeviceType": "MC300E12.5_V0",
+    "Module": "MCE12",
+    "Solution": "",
+    "Variant": {
+      "en": "dual light, bullet camera",
+      "ru": "двойная подсветка, цилиндрическая камера",
+      "zh": "双光源枪机"
+    },
+    "revisions": [
+      {
+        "archived_at": "2026-09-29T04:49:41Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/b__MCE12__ff7a77cc__firmware_MC300E12.5_V0_V3.0.2.2_LIGHT_202007021650.bin",
+        "file": "firmware_MC300E12.5_V0_V3.0.2.2_LIGHT_202007021650.bin",
+        "md5": "54a101467a2a50eab28146df1e300cf8",
+        "release_date": "20200702",
+        "sha256": "ff7a77cc3aba4c91c23b51add63fde12d9b8679215720d0429061af0d3bbde2c",
+        "size": 7725356,
+        "source_url": "https://pan.baidu.com/s/1QzNFsECtzzJ7rr3_QwEGgQ",
+        "version": "3.0.2.2"
+      }
+    ]
+  },
   "r1005": {
     "APPName": "_WTD",
     "DeviceCategory": "n",
