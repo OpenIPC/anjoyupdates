@@ -4328,6 +4328,17 @@
         "size": 14176348,
         "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/public/MN3108B_V0/firmware_MN3108B_V0-A1_V7.3.0.03_202607291002.bin",
         "version": "7.3.0.03"
+      },
+      {
+        "archived_at": "2026-11-23T15:23:35Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1463__firmware_MN3108B_V0-A1_V7.4.1.09_202611201501.bin",
+        "file": "firmware_MN3108B_V0-A1_V7.4.1.09_202611201501.bin",
+        "md5": "dfd032de4aa11b225b5a68b97fe4ba8b",
+        "release_date": "20261120",
+        "sha256": "96638b6de96b5fe78161b5ca094d994903b770b128afb216411c460cd797878f",
+        "size": 14385244,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/public/MN3108B_V0/firmware_MN3108B_V0-A1_V7.4.1.09_202611201501.bin",
+        "version": "7.4.1.09"
       }
     ]
   },
@@ -12830,6 +12841,329 @@
         "size": 11391848,
         "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/_TV/MC-L12EV3-4G_AF_V3-A_4G_TV-GB-H5/firmware_MCL12EV3_V3_AF-GB-A-H5_V3.6.3.4_TV_MCL12EV3-4G_V3_20261116181020.bin",
         "version": "3.6.3.4"
+      }
+    ]
+  },
+  "r1975": {
+    "APPName": "_WTD",
+    "DeviceCategory": "4",
+    "DeviceType": "A30_V1-AIOT_4G_WTD",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-11-23T15:23:40Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1975__firmware_A30_V1_YT-AIOT_V3.6.3.2_WTD_20261110153519.bin",
+        "file": "firmware_A30_V1_YT-AIOT_V3.6.3.2_WTD_20261110153519.bin",
+        "md5": "f0b2b4fa6bfdcae3b237a3c55788113f",
+        "release_date": "20261110",
+        "sha256": "dc6ee003d2b4a1b6354f3d4766fb9249196342607d6726eae433bf5a5694d36c",
+        "size": 7084352,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/_WTD/A30_V1-AIOT_4G_WTD/firmware_A30_V1_YT-AIOT_V3.6.3.2_WTD_20261110153519.bin",
+        "version": "3.6.3.2"
+      }
+    ]
+  },
+  "r1976": {
+    "APPName": "_WTD",
+    "DeviceCategory": "4",
+    "DeviceType": "A30_V1-AIOT_WTD",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-11-23T15:23:43Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1975__firmware_A30_V1_YT-AIOT_V3.6.3.2_WTD_20261110153519.bin",
+        "file": "firmware_A30_V1_YT-AIOT_V3.6.3.2_WTD_20261110153519.bin",
+        "md5": "f0b2b4fa6bfdcae3b237a3c55788113f",
+        "release_date": "20261110",
+        "sha256": "dc6ee003d2b4a1b6354f3d4766fb9249196342607d6726eae433bf5a5694d36c",
+        "size": 7084352,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/_WTD/A30_V1-AIOT_WTD/firmware_A30_V1_YT-AIOT_V3.6.3.2_WTD_20261110153519.bin",
+        "version": "3.6.3.2"
+      }
+    ]
+  },
+  "r1977": {
+    "APPName": "_WTD",
+    "DeviceCategory": "4",
+    "DeviceType": "A30_V0-AIOT_4G_WTD",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-11-23T15:23:48Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1977__firmware_A30_V0_YT-AIOT_V3.6.3.2_WTD_20261110153439.bin",
+        "file": "firmware_A30_V0_YT-AIOT_V3.6.3.2_WTD_20261110153439.bin",
+        "md5": "1c5d6e839b326f819180ceeca2194c8a",
+        "release_date": "20261110",
+        "sha256": "66df9c09c429934534e0e92626a1bb37c407fe4b1800049b8ab0692f87804e5a",
+        "size": 7084352,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/_WTD/A30_V0-AIOT_4G_WTD/firmware_A30_V0_YT-AIOT_V3.6.3.2_WTD_20261110153439.bin",
+        "version": "3.6.3.2"
+      }
+    ]
+  },
+  "r1978": {
+    "APPName": "_WTD",
+    "DeviceCategory": "4",
+    "DeviceType": "A30_V0-AIOT_WTD",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-11-23T15:23:51Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1977__firmware_A30_V0_YT-AIOT_V3.6.3.2_WTD_20261110153439.bin",
+        "file": "firmware_A30_V0_YT-AIOT_V3.6.3.2_WTD_20261110153439.bin",
+        "md5": "1c5d6e839b326f819180ceeca2194c8a",
+        "release_date": "20261110",
+        "sha256": "66df9c09c429934534e0e92626a1bb37c407fe4b1800049b8ab0692f87804e5a",
+        "size": 7084352,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/_WTD/A30_V0-AIOT_WTD/firmware_A30_V0_YT-AIOT_V3.6.3.2_WTD_20261110153439.bin",
+        "version": "3.6.3.2"
+      }
+    ]
+  },
+  "r1979": {
+    "APPName": "_WTD",
+    "DeviceCategory": "4",
+    "DeviceType": "A60_V2-AIOT_4G_WTD",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-11-23T15:23:55Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1979__firmware_A60_V2_YT-AIOT_V3.6.3.2_WTD_20261112175630.bin",
+        "file": "firmware_A60_V2_YT-AIOT_V3.6.3.2_WTD_20261112175630.bin",
+        "md5": "60b21e503a7e6037d1672afaa244b970",
+        "release_date": "20261112",
+        "sha256": "07bfbf3c713b030c5a423351904c95169743417aab38badbf3c943f07af2f782",
+        "size": 7084352,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/_WTD/A60_V2-AIOT_4G_WTD/firmware_A60_V2_YT-AIOT_V3.6.3.2_WTD_20261112175630.bin",
+        "version": "3.6.3.2"
+      }
+    ]
+  },
+  "r1980": {
+    "APPName": "_WTD",
+    "DeviceCategory": "4",
+    "DeviceType": "A60_V2-AIOT_WTD",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-11-23T15:23:58Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1979__firmware_A60_V2_YT-AIOT_V3.6.3.2_WTD_20261112175630.bin",
+        "file": "firmware_A60_V2_YT-AIOT_V3.6.3.2_WTD_20261112175630.bin",
+        "md5": "60b21e503a7e6037d1672afaa244b970",
+        "release_date": "20261112",
+        "sha256": "07bfbf3c713b030c5a423351904c95169743417aab38badbf3c943f07af2f782",
+        "size": 7084352,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/_WTD/A60_V2-AIOT_WTD/firmware_A60_V2_YT-AIOT_V3.6.3.2_WTD_20261112175630.bin",
+        "version": "3.6.3.2"
+      }
+    ]
+  },
+  "r1982": {
+    "APPName": "public",
+    "DeviceCategory": "4",
+    "DeviceType": "MYV30_V0-A_4G_TF",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-11-23T15:24:03Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1982__firmware_MYV30_V0_YT-A_V3.6.3.1_TF_20261028154457.bin",
+        "file": "firmware_MYV30_V0_YT-A_V3.6.3.1_TF_20261028154457.bin",
+        "md5": "42a90458b664681ff4e30a0b59a2628e",
+        "release_date": "20261028",
+        "sha256": "cdc8c4bd2460e64272e2030530765eebb4beb1b2d8589b23d23a3aff6a635f5c",
+        "size": 9238568,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/public/MYV30_V0-A_4G_TF/firmware_MYV30_V0_YT-A_V3.6.3.1_TF_20261028154457.bin",
+        "version": "3.6.3.1"
+      }
+    ]
+  },
+  "r1984": {
+    "APPName": "_WTD",
+    "DeviceCategory": "4",
+    "DeviceType": "D34G_V3-A_WTD",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-11-23T15:24:08Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1984__firmware_D34G_V3_YT-A_V3.6.3.1_WTD_20261103103847.bin",
+        "file": "firmware_D34G_V3_YT-A_V3.6.3.1_WTD_20261103103847.bin",
+        "md5": "2d33538a2c7d1b74210b6255fc00b992",
+        "release_date": "20261103",
+        "sha256": "10abca159a903f34c4f61726f4a956fec0799c42b42523798b1804713bbe3be6",
+        "size": 7468680,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/_WTD/D34G_V3-A_WTD/firmware_D34G_V3_YT-A_V3.6.3.1_WTD_20261103103847.bin",
+        "version": "3.6.3.1"
+      }
+    ]
+  },
+  "r1985": {
+    "APPName": "_WTD",
+    "DeviceCategory": "4",
+    "DeviceType": "D34G_V3-A_4G_WTD",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-11-23T15:24:11Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1984__firmware_D34G_V3_YT-A_V3.6.3.1_WTD_20261103103847.bin",
+        "file": "firmware_D34G_V3_YT-A_V3.6.3.1_WTD_20261103103847.bin",
+        "md5": "2d33538a2c7d1b74210b6255fc00b992",
+        "release_date": "20261103",
+        "sha256": "10abca159a903f34c4f61726f4a956fec0799c42b42523798b1804713bbe3be6",
+        "size": 7468680,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/_WTD/D34G_V3-A_4G_WTD/firmware_D34G_V3_YT-A_V3.6.3.1_WTD_20261103103847.bin",
+        "version": "3.6.3.1"
+      }
+    ]
+  },
+  "r1986": {
+    "APPName": "_WTD",
+    "DeviceCategory": "4",
+    "DeviceType": "D34G_V2-A_4G_WTD",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-11-23T15:24:16Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1986__firmware_D34G_V2_YT-A_V3.6.3.1_WTD_20261103103834.bin",
+        "file": "firmware_D34G_V2_YT-A_V3.6.3.1_WTD_20261103103834.bin",
+        "md5": "b30886c0d00a73c301528d7170f63385",
+        "release_date": "20261103",
+        "sha256": "6ccb4637a692f2b54a5a8f79e2b8deae45f19604a0deccb82da73ff102bcda2c",
+        "size": 7468680,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/_WTD/D34G_V2-A_4G_WTD/firmware_D34G_V2_YT-A_V3.6.3.1_WTD_20261103103834.bin",
+        "version": "3.6.3.1"
+      }
+    ]
+  },
+  "r1987": {
+    "APPName": "_WTD",
+    "DeviceCategory": "4",
+    "DeviceType": "D34G_V2-A_WTD",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-11-23T15:24:18Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1986__firmware_D34G_V2_YT-A_V3.6.3.1_WTD_20261103103834.bin",
+        "file": "firmware_D34G_V2_YT-A_V3.6.3.1_WTD_20261103103834.bin",
+        "md5": "b30886c0d00a73c301528d7170f63385",
+        "release_date": "20261103",
+        "sha256": "6ccb4637a692f2b54a5a8f79e2b8deae45f19604a0deccb82da73ff102bcda2c",
+        "size": 7468680,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/_WTD/D34G_V2-A_WTD/firmware_D34G_V2_YT-A_V3.6.3.1_WTD_20261103103834.bin",
+        "version": "3.6.3.1"
+      }
+    ]
+  },
+  "r1988": {
+    "APPName": "_WTD",
+    "DeviceCategory": "4",
+    "DeviceType": "D34G_V0-A_4G_WTD",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-11-23T15:24:23Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1988__firmware_D34G_V0_YT-A_V3.6.3.1_WTD_20261103103818.bin",
+        "file": "firmware_D34G_V0_YT-A_V3.6.3.1_WTD_20261103103818.bin",
+        "md5": "60b1b8450e36584f500ae3ecf500985f",
+        "release_date": "20261103",
+        "sha256": "36cfeaf3616e6a9dfc5770ddfa9a51c779df26232610b9d20a2ad0a1d4e4a23d",
+        "size": 7468680,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/_WTD/D34G_V0-A_4G_WTD/firmware_D34G_V0_YT-A_V3.6.3.1_WTD_20261103103818.bin",
+        "version": "3.6.3.1"
+      }
+    ]
+  },
+  "r1989": {
+    "APPName": "_WTD",
+    "DeviceCategory": "4",
+    "DeviceType": "D34G_V0-A_WTD",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-11-23T15:24:26Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1988__firmware_D34G_V0_YT-A_V3.6.3.1_WTD_20261103103818.bin",
+        "file": "firmware_D34G_V0_YT-A_V3.6.3.1_WTD_20261103103818.bin",
+        "md5": "60b1b8450e36584f500ae3ecf500985f",
+        "release_date": "20261103",
+        "sha256": "36cfeaf3616e6a9dfc5770ddfa9a51c779df26232610b9d20a2ad0a1d4e4a23d",
+        "size": 7468680,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/_WTD/D34G_V0-A_WTD/firmware_D34G_V0_YT-A_V3.6.3.1_WTD_20261103103818.bin",
+        "version": "3.6.3.1"
+      }
+    ]
+  },
+  "r1990": {
+    "APPName": "_WTD",
+    "DeviceCategory": "4",
+    "DeviceType": "D33G_V1-A_4G_WTD",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-11-23T15:24:30Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1990__firmware_D33G_V1_YT-A_V3.6.3.1_WTD_20261103103756.bin",
+        "file": "firmware_D33G_V1_YT-A_V3.6.3.1_WTD_20261103103756.bin",
+        "md5": "ecbdceec8d2e7f6e5cb21fbd47a93045",
+        "release_date": "20261103",
+        "sha256": "8cb594cf8b90471b20c1a3719bc10a106bc4a76eb9ffa427ba9bbe077973dddd",
+        "size": 7468680,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/_WTD/D33G_V1-A_4G_WTD/firmware_D33G_V1_YT-A_V3.6.3.1_WTD_20261103103756.bin",
+        "version": "3.6.3.1"
+      }
+    ]
+  },
+  "r1991": {
+    "APPName": "_WTD",
+    "DeviceCategory": "4",
+    "DeviceType": "D33G_V1-A_WTD",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-11-23T15:24:34Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1990__firmware_D33G_V1_YT-A_V3.6.3.1_WTD_20261103103756.bin",
+        "file": "firmware_D33G_V1_YT-A_V3.6.3.1_WTD_20261103103756.bin",
+        "md5": "ecbdceec8d2e7f6e5cb21fbd47a93045",
+        "release_date": "20261103",
+        "sha256": "8cb594cf8b90471b20c1a3719bc10a106bc4a76eb9ffa427ba9bbe077973dddd",
+        "size": 7468680,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/_WTD/D33G_V1-A_WTD/firmware_D33G_V1_YT-A_V3.6.3.1_WTD_20261103103756.bin",
+        "version": "3.6.3.1"
+      }
+    ]
+  },
+  "r1992": {
+    "APPName": "_WTD",
+    "DeviceCategory": "w",
+    "DeviceType": "D34W_V0-A_WTD",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-11-23T15:24:39Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1992__firmware_D34W_V0_YT-A_V3.6.3.3_WTD_20261117085843.bin",
+        "file": "firmware_D34W_V0_YT-A_V3.6.3.3_WTD_20261117085843.bin",
+        "md5": "fd6536c16313c077652c47bb6623cf57",
+        "release_date": "20261117",
+        "sha256": "361cd4d2468f4a46de7b66efb6409d3b83c089fd4cc99e686cffaed2fd5edd3c",
+        "size": 7759496,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/_WTD/D34W_V0-A_WTD/firmware_D34W_V0_YT-A_V3.6.3.3_WTD_20261117085843.bin",
+        "version": "3.6.3.3"
+      }
+    ]
+  },
+  "r1993": {
+    "APPName": "public",
+    "DeviceCategory": "4",
+    "DeviceType": "AY_H50_V0-AIOT_4G",
+    "Solution": "AIOT",
+    "revisions": [
+      {
+        "archived_at": "2026-11-23T15:24:43Z",
+        "asset_url": "https://github.com/OpenIPC/anjoyupdates/releases/download/firmware-archive/r1993__firmware_AY_H50_V0-AIOT_V3.6.3.3_20261119165447.bin",
+        "file": "firmware_AY_H50_V0-AIOT_V3.6.3.3_20261119165447.bin",
+        "md5": "00dcf05a520538349c027da4f7541cc3",
+        "release_date": "20261119",
+        "sha256": "0cdec6db0d85f16d6e0817975e3f8a105873cc713927b8ab1834d4844d64c377",
+        "size": 10778132,
+        "source_url": "https://ossfiles002.oss-cn-shanghai.aliyuncs.com/public/AY_H50_V0-AIOT_4G/firmware_AY_H50_V0-AIOT_V3.6.3.3_20261119165447.bin",
+        "version": "3.6.3.3"
       }
     ]
   },
